@@ -1,0 +1,16 @@
+# Python 3.11. Install torch and torchvision first, matching your CUDA version:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+numpy
+pandas
+scipy
+scikit-learn>=1.5
+statsmodels
+matplotlib
+pillow
+nibabel>=5.2
+nilearn>=0.10
+antspyx>=0.4
+monai==1.6.1
+transformers>=4.45
+peft>=0.12
+accelerate

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Checkable lesion reports from diffusion MRI in acute ischemic stroke: a grounded vision-language model trained and evaluated on mask-derived findings"
+authors:
+  - family-names: Mercado-Diaz
+    given-names: Luis R.
+    affiliation: University of Connecticut
+  - family-names: Barrera-Causil
+    given-names: Carlos
+    affiliation: Instituto Tecnológico Metropolitano
+  - family-names: Donado Pinto
+    given-names: Laura Sofía
+    affiliation: Universidad Internacional de La Rioja
+  - family-names: Posada-Quintero
+    given-names: Hugo F.
+    affiliation: University of Connecticut
+repository-code: "https://github.com/jouninLRMD/VLM-Stroke"
+license: GPL-3.0
+type: software

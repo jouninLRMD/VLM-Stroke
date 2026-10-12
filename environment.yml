@@ -1,0 +1,22 @@
+name: vlm-stroke
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn>=1.5
+  - statsmodels
+  - matplotlib
+  - pillow
+  - pip:
+      - nibabel>=5.2
+      - nilearn>=0.10
+      - antspyx>=0.4
+      - monai==1.6.1
+      - "transformers>=4.45"
+      - "peft>=0.12"
+      - accelerate
+# PyTorch and torchvision are installed separately to match the local CUDA version (see README).
