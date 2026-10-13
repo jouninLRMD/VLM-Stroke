@@ -9,11 +9,20 @@ EDGES = [2, 20, 70]
 FIELDS = ["side", "vol_bin", "multiple", "chronic", "restr"]
 
 
+def _num(pattern, t):
+    """First number matching pattern, or NaN when absent or malformed (e.g. '0.8.7' in a generated report)."""
+    m = re.search(pattern, t)
+    try:
+        return float(m.group(1)) if m else np.nan
+    except ValueError:
+        return np.nan
+
+
 def parse(t):
     t = t if isinstance(t, str) else ""
     side = "L" if "the left side" in t else "R" if "the right side" in t else "B" if "both sides" in t else None
-    m = re.search(r"volume ([\d.]+) mL", t); vol = float(m.group(1)) if m else np.nan
-    m = re.search(r"relative ADC ([\d.]+)\)", t); radc = float(m.group(1)) if m else np.nan
+    vol = _num(r"volume ([\d.]+) mL", t)
+    radc = _num(r"relative ADC ([\d.]+)\)", t)
     restr = 2 if "Marked diffusion" in t else 1 if "Mild diffusion" in t else 0 if "No clear diffusion" in t else np.nan
     chron = 1 if "Chronic infarct also present" in t else 0 if "No chronic infarct" in t else np.nan
     br = re.search(r"MCA branches: ([a-z, ]+)\)", t)

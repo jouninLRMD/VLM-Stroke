@@ -1,0 +1,943 @@
+participant_id,labelled,has_report,y_poor,generated,p_poor,raw
+sub-2,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-8,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-13,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.7980943322181702,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-20,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-24,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-29,True,False,1.0,,0.8669611811637878,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-32,True,False,0.0,,0.8174769282341003,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-38,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-47,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-50,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8669554591178894,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-56,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-63,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-70,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-86,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8353936076164246,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-93,True,False,1.0,,0.8354040384292603,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-96,True,True,1.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8174888491630554,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-102,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-112,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-118,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8669607043266296,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-121,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-123,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8932430148124695,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-124,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",0.8518702387809753,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-129,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-132,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8518707156181335,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-139,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.777205765247345,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-140,True,True,1.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8518639802932739,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-157,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-158,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-159,True,False,0.0,,0.8669607043266296,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-164,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-169,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.817482590675354,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-176,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-181,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.798086941242218,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-185,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-186,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-190,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8932378888130188,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-195,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-199,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-200,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-202,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-217,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-218,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-226,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-230,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-244,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8353925943374634,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-248,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-251,True,False,1.0,,0.8807287812232971,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-252,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-253,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.835400402545929,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-257,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-261,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.7771995067596436,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-266,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-274,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8669602870941162,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-278,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-284,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",0.9045905470848083,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-287,True,True,1.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.7772051095962524,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-291,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8353983163833618,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-300,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-311,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-320,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-321,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8932426571846008,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-325,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8669497966766357,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-327,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8932426571846008,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-335,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",0.8807231783866882,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-337,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-339,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-345,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-346,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-350,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-354,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-358,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8518750667572021,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-365,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-366,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-374,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-384,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-385,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.77720046043396,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-391,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-392,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-396,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-405,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-411,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-415,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-419,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.835404634475708,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-420,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-429,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-435,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",0.8353930711746216,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-460,True,False,1.0,,0.866956353187561,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-466,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8518765568733215,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-467,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.835405170917511,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-488,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8353930711746216,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-492,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8174819946289062,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-510,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",0.8807287812232971,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-513,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-522,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.7980949282646179,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-528,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-537,True,False,0.0,,0.8353936076164246,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-539,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-541,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",0.8518707156181335,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-551,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-570,True,False,0.0,,0.8669607043266296,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-572,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",0.8353999257087708,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-585,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-589,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-590,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-593,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8353983163833618,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-594,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-596,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-599,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",0.8807240128517151,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-601,True,False,0.0,,0.8932386636734009,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-604,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-605,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-607,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-608,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-616,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",0.8669549822807312,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-617,False,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-619,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-620,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8932337164878845,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-622,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8669607043266296,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-632,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8518649339675903,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-634,True,True,1.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8174882531166077,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-636,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8518697619438171,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-651,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8807187080383301,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-657,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-662,True,True,1.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8174888491630554,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-663,True,True,1.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8518746495246887,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-669,True,False,1.0,,0.8807240128517151,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-676,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-679,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-689,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-690,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8353980779647827,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-692,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-696,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-701,True,True,1.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8353993892669678,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-719,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-730,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8518697619438171,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-747,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-763,False,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-766,True,False,1.0,,0.8353993892669678,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-769,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-777,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8807231783866882,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-782,True,False,0.0,,0.8669567704200745,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-783,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-784,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-791,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8807191848754883,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-793,True,False,0.0,,0.8807240128517151,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-796,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",0.8807327747344971,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-800,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",0.8669646978378296,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-817,True,False,0.0,,0.8518760204315186,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-835,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",0.8518756031990051,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-848,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-849,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-860,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8353988528251648,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-862,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-868,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-873,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-883,True,False,1.0,,0.8669655919075012,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-887,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8669546246528625,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-892,True,True,1.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8518692851066589,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-912,True,False,1.0,,0.8932426571846008,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-921,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8353930711746216,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-926,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8669554591178894,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-931,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8518654704093933,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-937,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-938,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-939,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-959,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-962,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-965,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8353983163833618,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-969,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-973,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-992,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-993,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8354038000106812,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-994,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-998,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8932474255561829,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1001,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",0.8518756031990051,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1004,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1016,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8932470679283142,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1032,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1033,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1049,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1056,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.9045905470848083,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1058,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1061,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1062,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1065,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1070,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1080,True,False,0.0,,0.8807133436203003,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1085,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1086,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",0.8807283639907837,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1090,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1091,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1099,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1100,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8174819946289062,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1105,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1113,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1121,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8807235360145569,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1124,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1129,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",0.8807327747344971,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1132,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1136,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",0.8353993892669678,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1137,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",0.8807279467582703,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1138,True,False,0.0,,0.8807240128517151,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1148,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8518654704093933,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1149,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1150,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",0.8518645167350769,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1156,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1158,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",0.817483127117157,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1164,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1165,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",0.8669643402099609,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1171,True,True,1.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8174888491630554,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1177,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1186,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1187,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1190,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1198,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",0.8518697619438171,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1199,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1201,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.7980911731719971,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1212,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8174882531166077,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1215,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.9045894742012024,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1216,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1217,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8518702387809753,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1218,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1231,True,False,1.0,,0.8807243704795837,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1245,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8807231783866882,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1271,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1275,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8932378888130188,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1276,True,False,0.0,,0.8354008793830872,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1287,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1291,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",0.8669607043266296,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1293,True,False,0.0,,0.8174888491630554,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1298,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1299,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1300,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",0.8932426571846008,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1303,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1304,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",0.8807235360145569,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1309,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",0.8932383060455322,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1313,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8518760204315186,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1314,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1317,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1318,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",0.866959810256958,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1323,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1334,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8353993892669678,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1335,True,False,0.0,,0.7771931886672974,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1336,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1344,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1364,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",0.8669602870941162,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1369,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1370,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8932430148124695,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1373,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1377,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1394,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.7980875372886658,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1402,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8518707156181335,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1403,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",0.8807287812232971,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1404,True,True,1.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.754807710647583,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1407,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1415,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1419,True,False,0.0,,0.81748366355896,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1431,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1432,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8353925943374634,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1433,True,True,1.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.7980943322181702,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1435,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1438,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1445,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8807291388511658,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1451,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8174762725830078,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1452,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1453,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.817483127117157,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1460,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1461,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",0.8932430148124695,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1467,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1472,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.7771925330162048,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1473,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1476,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",0.8518760204315186,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1485,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1493,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1504,True,False,0.0,,0.8669611811637878,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1508,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1510,True,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.7980943322181702,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1512,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1519,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1524,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1525,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8669558763504028,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1532,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1533,True,False,1.0,,0.8932437896728516,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1535,True,True,1.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8353988528251648,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1537,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1541,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1548,False,True,0.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1552,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1562,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",0.9324121475219727,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1565,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.84). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1571,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8807287812232971,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1577,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8518760204315186,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1581,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8669602870941162,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1582,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1584,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1594,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1596,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1599,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1617,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1622,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1624,True,True,1.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.7980949282646179,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1630,True,True,1.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.835400402545929,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1650,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1652,True,True,1.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8353988528251648,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1655,True,True,1.0,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.817482590675354,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1657,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1662,True,True,0.0,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",0.8353993892669678,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1680,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1688,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1711,False,True,,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.",,"FINDINGS: Acute infarct on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 14.5 mL (medium). Marked diffusion restriction (mean relative ADC 0.82). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1712,False,True,,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on the right side, involving the middle cerebral artery (MCA) cortical and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 15.2 mL (medium). Marked diffusion restriction (mean relative ADC 0.85). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1718,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC 0.75). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1725,True,True,1.0,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 5.6 mL (small). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.",0.8932434320449829,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 5.6 mL (small). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"
+sub-1729,False,True,,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.",,"FINDINGS: Multiple acute infarcts on both sides, involving the anterior cerebral artery (ACA), middle cerebral artery (MCA) cortical, and deep lenticulostriate/anterior choroidal territories. Acute lesion volume 45.6 mL (very large). Marked diffusion restriction (mean relative ADC < 0.8). No chronic infarct.
+
+OUTCOME: poor (mRS 3-6)"

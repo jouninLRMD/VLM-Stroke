@@ -1,0 +1,3 @@
+source,bleu4,rougeL
+VLM,0.669,0.8519
+Retrieval,0.6439,0.8374

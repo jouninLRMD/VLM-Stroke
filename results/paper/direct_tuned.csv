@@ -1,0 +1,35 @@
+source,metric,value,lo,hi,d_ref,d_lo,d_hi
+Full model,acc_side,0.8174,0.796,0.8377,,,
+Full model,acc_vol_bin,0.7105,0.6864,0.734,,,
+Full model,acc_multiple,0.6947,0.6726,0.7181,,,
+Full model,acc_chronic,0.8952,0.8811,0.9104,,,
+Full model,acc_restr,0.6072,0.5803,0.6337,,,
+Full model,terr_f1,0.7187,0.7028,0.7354,,,
+Full model,terr_exact,0.499,0.4742,0.5258,,,
+Full model,all_correct,0.3239,0.3008,0.3477,,,
+Full model,halluc,0.2313,0.2126,0.2501,,,
+Full model,omission,0.3252,0.3077,0.3428,,,
+Full model,f1_ACA,0.5987,0.5462,0.6472,,,
+Full model,f1_MCA,0.8606,0.8447,0.8775,,,
+Full model,f1_DEEP,0.6473,0.6082,0.6885,,,
+Full model,f1_PCA,0.5733,0.5068,0.6361,,,
+Full model,f1_THAL,0.4091,0.3229,0.4878,,,
+Full model,f1_BS,0.4571,0.3524,0.5512,,,
+Full model,f1_CEREB,0.6642,0.5935,0.7323,,,
+"Direct, tuned thresholds",acc_side,0.8022,0.7815,0.8222,0.0152,0.0,0.0331
+"Direct, tuned thresholds",acc_vol_bin,0.7126,0.6906,0.734,-0.0021,-0.0245,0.02
+"Direct, tuned thresholds",acc_multiple,0.6775,0.6557,0.7019,0.0172,-0.0034,0.0358
+"Direct, tuned thresholds",acc_chronic,0.8904,0.8753,0.9063,0.0048,-0.009,0.0183
+"Direct, tuned thresholds",acc_restr,0.5534,0.5279,0.58,0.0538,0.0296,0.0765
+"Direct, tuned thresholds",terr_f1,0.6802,0.6638,0.6968,0.0385,0.0235,0.0536
+"Direct, tuned thresholds",terr_exact,0.3756,0.3504,0.3994,0.1234,0.0982,0.1496
+"Direct, tuned thresholds",all_correct,0.2536,0.2323,0.2764,0.0703,0.0469,0.0934
+"Direct, tuned thresholds",halluc,0.3382,0.319,0.3562,-0.1069,-0.1242,-0.0902
+"Direct, tuned thresholds",omission,0.3004,0.2803,0.3195,0.0248,0.0083,0.0416
+"Direct, tuned thresholds",f1_ACA,0.5874,0.5362,0.6318,0.0113,-0.0402,0.0619
+"Direct, tuned thresholds",f1_MCA,0.8532,0.8355,0.8706,0.0074,-0.0099,0.023
+"Direct, tuned thresholds",f1_DEEP,0.617,0.5705,0.6558,0.0303,-0.005,0.0663
+"Direct, tuned thresholds",f1_PCA,0.6684,0.6129,0.7232,-0.0951,-0.1497,-0.0379
+"Direct, tuned thresholds",f1_THAL,0.4588,0.3861,0.5253,-0.0497,-0.1355,0.0443
+"Direct, tuned thresholds",f1_BS,0.3067,0.2396,0.3691,0.1504,0.0475,0.2364
+"Direct, tuned thresholds",f1_CEREB,0.6099,0.5472,0.6732,0.0543,-0.0051,0.1136

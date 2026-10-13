@@ -1,0 +1,227 @@
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]
+Loading weights:   6%|6         | 21/338 [00:00<00:02, 125.59it/s]
+Loading weights:  10%|#         | 34/338 [00:00<00:03, 100.93it/s]
+Loading weights:  17%|#6        | 57/338 [00:00<00:02, 118.79it/s]
+Loading weights:  24%|##3       | 81/338 [00:00<00:01, 150.82it/s]
+Loading weights:  29%|##8       | 98/338 [00:00<00:01, 128.80it/s]
+Loading weights:  33%|###3      | 112/338 [00:00<00:01, 118.18it/s]
+Loading weights:  37%|###6      | 125/338 [00:01<00:01, 106.81it/s]
+Loading weights:  41%|####1     | 139/338 [00:01<00:01, 114.49it/s]
+Loading weights:  45%|####4     | 151/338 [00:01<00:01, 104.98it/s]
+Loading weights:  54%|#####3    | 182/338 [00:01<00:01, 133.54it/s]
+Loading weights:  61%|######    | 205/338 [00:01<00:00, 154.55it/s]
+Loading weights:  66%|######5   | 222/338 [00:01<00:01, 93.96it/s] 
+Loading weights: 100%|##########| 338/338 [00:02<00:00, 164.70it/s]
+
+[vlm full eval-only] fold 0: test 314
+~\.conda\envs\soop\Lib\site-packages\transformers\generation\utils.py:1456: UserWarning: Passing `repetition_penalty` with `inputs_embeds` and without `input_ids` to `generate` will apply the penalty only to newly generated tokens, not to the prompt.
+  warnings.warn(
+  generated 16/314
+  generated 32/314
+  generated 48/314
+  generated 64/314
+  generated 80/314
+  generated 96/314
+  generated 112/314
+  generated 128/314
+  generated 144/314
+  generated 160/314
+  generated 176/314
+  generated 192/314
+  generated 208/314
+  generated 224/314
+  generated 240/314
+  generated 256/314
+  generated 272/314
+  generated 288/314
+  generated 304/314
+  generated 314/314
+[vlm full] fold 0 done in 18.4 min
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]
+Loading weights:   1%|          | 3/338 [00:00<00:12, 26.64it/s]
+Loading weights:   2%|1         | 6/338 [00:00<00:15, 20.98it/s]
+Loading weights:   9%|9         | 31/338 [00:00<00:03, 100.70it/s]
+Loading weights:  14%|#3        | 47/338 [00:00<00:03, 96.83it/s] 
+Loading weights:  18%|#7        | 60/338 [00:00<00:02, 102.99it/s]
+Loading weights:  21%|##1       | 71/338 [00:00<00:02, 100.42it/s]
+Loading weights:  24%|##4       | 82/338 [00:01<00:03, 66.60it/s] 
+Loading weights:  28%|##8       | 96/338 [00:01<00:02, 81.04it/s]
+Loading weights:  33%|###2      | 111/338 [00:01<00:02, 92.31it/s]
+Loading weights:  36%|###6      | 122/338 [00:01<00:02, 72.34it/s]
+Loading weights:  40%|###9      | 135/338 [00:01<00:02, 78.22it/s]
+Loading weights:  45%|####5     | 153/338 [00:01<00:01, 99.35it/s]
+Loading weights:  50%|####9     | 168/338 [00:01<00:01, 110.90it/s]
+Loading weights:  54%|#####3    | 181/338 [00:02<00:01, 97.64it/s] 
+Loading weights:  57%|#####7    | 194/338 [00:02<00:01, 97.67it/s]
+Loading weights:  61%|######    | 205/338 [00:02<00:01, 91.16it/s]
+Loading weights:  67%|######7   | 227/338 [00:02<00:01, 110.82it/s]
+Loading weights:  71%|#######   | 239/338 [00:02<00:00, 112.66it/s]
+Loading weights: 100%|##########| 338/338 [00:02<00:00, 130.13it/s]
+
+[vlm full eval-only] fold 1: test 328
+~\.conda\envs\soop\Lib\site-packages\transformers\generation\utils.py:1456: UserWarning: Passing `repetition_penalty` with `inputs_embeds` and without `input_ids` to `generate` will apply the penalty only to newly generated tokens, not to the prompt.
+  warnings.warn(
+  generated 16/328
+  generated 32/328
+  generated 48/328
+  generated 64/328
+  generated 80/328
+  generated 96/328
+  generated 112/328
+  generated 128/328
+  generated 144/328
+  generated 160/328
+  generated 176/328
+  generated 192/328
+  generated 208/328
+  generated 224/328
+  generated 240/328
+  generated 256/328
+  generated 272/328
+  generated 288/328
+  generated 304/328
+  generated 320/328
+  generated 328/328
+[vlm full] fold 1 done in 21.1 min
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]
+Loading weights:   5%|5         | 18/338 [00:00<00:03, 103.38it/s]
+Loading weights:   9%|8         | 29/338 [00:00<00:03, 84.64it/s] 
+Loading weights:  11%|#1        | 38/338 [00:00<00:03, 85.45it/s]
+Loading weights:  14%|#3        | 47/338 [00:00<00:04, 65.77it/s]
+Loading weights:  17%|#6        | 56/338 [00:00<00:03, 71.27it/s]
+Loading weights:  20%|##        | 69/338 [00:00<00:03, 81.93it/s]
+Loading weights:  24%|##4       | 82/338 [00:01<00:03, 81.02it/s]
+Loading weights:  28%|##8       | 96/338 [00:01<00:02, 94.86it/s]
+Loading weights:  39%|###9      | 133/338 [00:01<00:01, 156.15it/s]
+Loading weights:  44%|####4     | 150/338 [00:01<00:01, 147.50it/s]
+Loading weights:  49%|####9     | 166/338 [00:01<00:01, 109.05it/s]
+Loading weights:  53%|#####3    | 180/338 [00:01<00:01, 114.34it/s]
+Loading weights:  57%|#####7    | 193/338 [00:01<00:01, 110.19it/s]
+Loading weights:  61%|######    | 205/338 [00:02<00:01, 101.58it/s]
+Loading weights:  64%|######3   | 216/338 [00:02<00:01, 95.17it/s] 
+Loading weights:  68%|######8   | 230/338 [00:02<00:01, 93.19it/s]
+Loading weights:  72%|#######1  | 243/338 [00:02<00:00, 96.24it/s]
+Loading weights:  75%|#######4  | 253/338 [00:02<00:00, 85.81it/s]
+Loading weights:  78%|#######7  | 262/338 [00:02<00:00, 80.88it/s]
+Loading weights: 100%|##########| 338/338 [00:02<00:00, 123.39it/s]
+
+[vlm full eval-only] fold 2: test 317
+~\.conda\envs\soop\Lib\site-packages\transformers\generation\utils.py:1456: UserWarning: Passing `repetition_penalty` with `inputs_embeds` and without `input_ids` to `generate` will apply the penalty only to newly generated tokens, not to the prompt.
+  warnings.warn(
+  generated 16/317
+  generated 32/317
+  generated 48/317
+  generated 64/317
+  generated 80/317
+  generated 96/317
+  generated 112/317
+  generated 128/317
+  generated 144/317
+  generated 160/317
+  generated 176/317
+  generated 192/317
+  generated 208/317
+  generated 224/317
+  generated 240/317
+  generated 256/317
+  generated 272/317
+  generated 288/317
+  generated 304/317
+  generated 317/317
+[vlm full] fold 2 done in 20.0 min
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]
+Loading weights:   3%|3         | 11/338 [00:00<00:03, 93.27it/s]
+Loading weights:   8%|8         | 28/338 [00:00<00:04, 69.51it/s]
+Loading weights:  11%|#         | 36/338 [00:00<00:04, 68.38it/s]
+Loading weights:  19%|#8        | 64/338 [00:00<00:02, 114.37it/s]
+Loading weights:  23%|##2       | 77/338 [00:00<00:02, 112.21it/s]
+Loading weights:  26%|##6       | 89/338 [00:00<00:02, 108.80it/s]
+Loading weights:  30%|##9       | 101/338 [00:01<00:02, 105.06it/s]
+Loading weights:  33%|###3      | 112/338 [00:01<00:02, 94.50it/s] 
+Loading weights:  36%|###6      | 122/338 [00:01<00:02, 95.27it/s]
+Loading weights:  39%|###9      | 132/338 [00:01<00:03, 65.81it/s]
+Loading weights:  42%|####1     | 141/338 [00:01<00:02, 70.26it/s]
+Loading weights:  46%|####5     | 154/338 [00:01<00:02, 83.54it/s]
+Loading weights:  53%|#####2    | 178/338 [00:01<00:01, 121.03it/s]
+Loading weights:  57%|#####6    | 192/338 [00:02<00:01, 102.74it/s]
+Loading weights:  60%|######    | 204/338 [00:02<00:01, 91.67it/s] 
+Loading weights:  65%|######5   | 220/338 [00:02<00:01, 105.44it/s]
+Loading weights:  69%|######8   | 232/338 [00:02<00:01, 90.67it/s] 
+Loading weights:  72%|#######1  | 243/338 [00:02<00:01, 92.36it/s]
+Loading weights: 100%|##########| 338/338 [00:02<00:00, 129.05it/s]
+
+[vlm full eval-only] fold 3: test 302
+~\.conda\envs\soop\Lib\site-packages\transformers\generation\utils.py:1456: UserWarning: Passing `repetition_penalty` with `inputs_embeds` and without `input_ids` to `generate` will apply the penalty only to newly generated tokens, not to the prompt.
+  warnings.warn(
+  generated 16/302
+  generated 32/302
+  generated 48/302
+  generated 64/302
+  generated 80/302
+  generated 96/302
+  generated 112/302
+  generated 128/302
+  generated 144/302
+  generated 160/302
+  generated 176/302
+  generated 192/302
+  generated 208/302
+  generated 224/302
+  generated 240/302
+  generated 256/302
+  generated 272/302
+  generated 288/302
+  generated 302/302
+[vlm full] fold 3 done in 18.2 min
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]
+Loading weights:   2%|2         | 7/338 [00:00<00:06, 52.33it/s]
+Loading weights:   4%|3         | 13/338 [00:00<00:06, 48.20it/s]
+Loading weights:   6%|6         | 21/338 [00:00<00:05, 56.69it/s]
+Loading weights:  12%|#1        | 40/338 [00:00<00:03, 90.75it/s]
+Loading weights:  14%|#4        | 49/338 [00:00<00:03, 86.16it/s]
+Loading weights:  25%|##4       | 83/338 [00:00<00:01, 153.85it/s]
+Loading weights:  29%|##9       | 99/338 [00:01<00:02, 98.74it/s] 
+Loading weights:  33%|###3      | 112/338 [00:01<00:02, 100.78it/s]
+Loading weights:  37%|###6      | 124/338 [00:01<00:02, 97.23it/s] 
+Loading weights:  40%|###9      | 135/338 [00:01<00:02, 94.69it/s]
+Loading weights:  43%|####3     | 146/338 [00:01<00:02, 90.73it/s]
+Loading weights:  46%|####6     | 156/338 [00:01<00:02, 80.26it/s]
+Loading weights:  50%|#####     | 170/338 [00:01<00:01, 89.97it/s]
+Loading weights:  54%|#####3    | 181/338 [00:01<00:01, 90.25it/s]
+Loading weights:  57%|#####6    | 191/338 [00:02<00:01, 90.01it/s]
+Loading weights:  59%|#####9    | 201/338 [00:02<00:01, 91.25it/s]
+Loading weights:  62%|######2   | 211/338 [00:02<00:01, 77.20it/s]
+Loading weights:  65%|######5   | 220/338 [00:02<00:01, 72.63it/s]
+Loading weights:  68%|######8   | 230/338 [00:02<00:01, 77.05it/s]
+Loading weights:  71%|#######   | 239/338 [00:02<00:01, 78.23it/s]
+Loading weights:  73%|#######3  | 248/338 [00:02<00:01, 79.15it/s]
+Loading weights: 100%|##########| 338/338 [00:02<00:00, 117.48it/s]
+
+[vlm full eval-only] fold 4: test 304
+~\.conda\envs\soop\Lib\site-packages\transformers\generation\utils.py:1456: UserWarning: Passing `repetition_penalty` with `inputs_embeds` and without `input_ids` to `generate` will apply the penalty only to newly generated tokens, not to the prompt.
+  warnings.warn(
+  generated 16/304
+  generated 32/304
+  generated 48/304
+  generated 64/304
+  generated 80/304
+  generated 96/304
+  generated 112/304
+  generated 128/304
+  generated 144/304
+  generated 160/304
+  generated 176/304
+  generated 192/304
+  generated 208/304
+  generated 224/304
+  generated 240/304
+  generated 256/304
+  generated 272/304
+  generated 288/304
+  generated 304/304
+[vlm full] fold 4 done in 18.3 min

@@ -1,0 +1,5 @@
+source,n,acc_side,acc_vol_bin,acc_multiple,acc_chronic,acc_restr,terr_micro_f1,terr_exact_set,terr_hallucination_rate,terr_omission_rate,f1_ACA,f1_MCA,f1_DEEP,f1_PCA,f1_THAL,f1_BS,f1_CEREB,vol_spearman,vol_mae_ml,all_fields_correct
+VLM generated report,1451,0.817,0.711,0.695,0.895,0.607,0.719,0.499,0.231,0.325,0.599,0.861,0.647,0.573,0.409,0.457,0.664,0.881,12.261,0.324
+Direct structured classifier,1451,0.802,0.713,0.683,0.88,0.553,0.675,0.408,0.133,0.448,0.385,0.855,0.635,0.539,0.224,0.0,0.574,,,0.272
+VLM (same scans as direct),1451,0.817,0.711,0.695,0.895,0.607,0.719,0.499,0.231,0.325,0.599,0.861,0.647,0.573,0.409,0.457,0.664,0.881,12.261,0.324
+Majority-class reference,1451,0.421,0.365,0.509,0.894,0.427,0.515,0.323,0.363,0.568,0.0,0.778,0.0,0.0,0.0,0.0,0.0,,,0.061

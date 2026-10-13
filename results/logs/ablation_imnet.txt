@@ -1,0 +1,285 @@
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]
+Loading weights:   2%|1         | 6/338 [00:00<00:05, 56.58it/s]
+Loading weights:   5%|5         | 18/338 [00:00<00:03, 88.27it/s]
+Loading weights:  10%|9         | 33/338 [00:00<00:02, 115.01it/s]
+Loading weights:  15%|#4        | 50/338 [00:00<00:02, 107.61it/s]
+Loading weights:  19%|#8        | 63/338 [00:00<00:02, 95.96it/s] 
+Loading weights:  23%|##2       | 77/338 [00:00<00:02, 102.73it/s]
+Loading weights:  29%|##8       | 97/338 [00:00<00:01, 123.64it/s]
+Loading weights:  35%|###4      | 117/338 [00:01<00:01, 137.05it/s]
+Loading weights:  39%|###9      | 132/338 [00:01<00:01, 123.92it/s]
+Loading weights:  43%|####2     | 145/338 [00:01<00:01, 103.39it/s]
+Loading weights:  46%|####6     | 157/338 [00:01<00:01, 104.63it/s]
+Loading weights:  50%|####9     | 168/338 [00:01<00:01, 86.07it/s] 
+Loading weights:  54%|#####3    | 181/338 [00:01<00:01, 91.75it/s]
+Loading weights:  58%|#####7    | 195/338 [00:01<00:01, 88.13it/s]
+Loading weights:  67%|######7   | 228/338 [00:02<00:00, 126.26it/s]
+Loading weights:  71%|#######1  | 241/338 [00:02<00:00, 116.53it/s]
+Loading weights:  80%|########  | 272/338 [00:02<00:00, 159.70it/s]
+Loading weights: 100%|##########| 338/338 [00:02<00:00, 144.83it/s]
+
+[vlm imnet] fold 0: Qwen/Qwen2.5-1.5B-Instruct | train 1251 | test 314 | 471 steps
+[transformers] `use_cache=True` is incompatible with gradient checkpointing. Setting `use_cache=False`.
+  ep 0 step 50/471 loss 1.061
+  ep 0 step 100/471 loss 0.279
+  ep 0 step 150/471 loss 0.262
+  epoch 0: mean loss 0.522 | 1.7 min
+  ep 1 step 200/471 loss 0.250
+  ep 1 step 250/471 loss 0.240
+  ep 1 step 300/471 loss 0.240
+  epoch 1: mean loss 0.242 | 4.0 min
+  ep 2 step 350/471 loss 0.232
+  ep 2 step 400/471 loss 0.233
+  ep 2 step 450/471 loss 0.233
+  epoch 2: mean loss 0.233 | 6.1 min
+~\.conda\envs\soop\Lib\site-packages\transformers\generation\utils.py:1456: UserWarning: Passing `repetition_penalty` with `inputs_embeds` and without `input_ids` to `generate` will apply the penalty only to newly generated tokens, not to the prompt.
+  warnings.warn(
+  generated 16/314
+  generated 32/314
+  generated 48/314
+  generated 64/314
+  generated 80/314
+  generated 96/314
+  generated 112/314
+  generated 128/314
+  generated 144/314
+  generated 160/314
+  generated 176/314
+  generated 192/314
+  generated 208/314
+  generated 224/314
+  generated 240/314
+  generated 256/314
+  generated 272/314
+  generated 288/314
+  generated 304/314
+  generated 314/314
+[vlm imnet] fold 0 done in 9.3 min
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]
+Loading weights:   3%|3         | 11/338 [00:00<00:03, 106.27it/s]
+Loading weights:  10%|#         | 34/338 [00:00<00:02, 134.33it/s]
+Loading weights:  14%|#4        | 48/338 [00:00<00:02, 118.74it/s]
+Loading weights:  20%|#9        | 67/338 [00:00<00:02, 122.79it/s]
+Loading weights:  25%|##4       | 83/338 [00:00<00:02, 121.42it/s]
+Loading weights:  28%|##8       | 96/338 [00:00<00:02, 117.20it/s]
+Loading weights:  32%|###1      | 108/338 [00:00<00:02, 104.54it/s]
+Loading weights:  35%|###5      | 119/338 [00:01<00:02, 97.34it/s] 
+Loading weights:  39%|###8      | 131/338 [00:01<00:02, 100.81it/s]
+Loading weights:  42%|####2     | 142/338 [00:01<00:01, 99.49it/s] 
+Loading weights:  45%|####4     | 152/338 [00:01<00:01, 95.32it/s]
+Loading weights:  48%|####7     | 162/338 [00:01<00:02, 83.13it/s]
+Loading weights:  53%|#####2    | 179/338 [00:01<00:01, 94.48it/s]
+Loading weights:  57%|#####7    | 194/338 [00:01<00:01, 95.00it/s]
+Loading weights:  61%|######    | 205/338 [00:02<00:01, 91.87it/s]
+Loading weights:  64%|######3   | 215/338 [00:02<00:01, 91.24it/s]
+Loading weights:  71%|#######   | 239/338 [00:02<00:00, 126.19it/s]
+Loading weights:  75%|#######5  | 255/338 [00:02<00:00, 133.52it/s]
+Loading weights:  80%|#######9  | 269/338 [00:02<00:00, 127.98it/s]
+Loading weights:  84%|########3 | 283/338 [00:02<00:00, 130.47it/s]
+Loading weights:  94%|#########4| 318/338 [00:02<00:00, 186.90it/s]
+Loading weights: 100%|##########| 338/338 [00:02<00:00, 125.52it/s]
+
+[vlm imnet] fold 1: Qwen/Qwen2.5-1.5B-Instruct | train 1237 | test 328 | 465 steps
+  ep 0 step 50/465 loss 1.062
+  ep 0 step 100/465 loss 0.276
+  ep 0 step 150/465 loss 0.256
+  epoch 0: mean loss 0.522 | 1.6 min
+  ep 1 step 200/465 loss 0.250
+  ep 1 step 250/465 loss 0.239
+  ep 1 step 300/465 loss 0.240
+  epoch 1: mean loss 0.242 | 3.2 min
+  ep 2 step 350/465 loss 0.231
+  ep 2 step 400/465 loss 0.235
+  ep 2 step 450/465 loss 0.231
+  epoch 2: mean loss 0.232 | 4.8 min
+~\.conda\envs\soop\Lib\site-packages\transformers\generation\utils.py:1456: UserWarning: Passing `repetition_penalty` with `inputs_embeds` and without `input_ids` to `generate` will apply the penalty only to newly generated tokens, not to the prompt.
+  warnings.warn(
+  generated 16/328
+  generated 32/328
+  generated 48/328
+  generated 64/328
+  generated 80/328
+  generated 96/328
+  generated 112/328
+  generated 128/328
+  generated 144/328
+  generated 160/328
+  generated 176/328
+  generated 192/328
+  generated 208/328
+  generated 224/328
+  generated 240/328
+  generated 256/328
+  generated 272/328
+  generated 288/328
+  generated 304/328
+  generated 320/328
+  generated 328/328
+[vlm imnet] fold 1 done in 8.1 min
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]
+Loading weights:   4%|4         | 14/338 [00:00<00:02, 135.65it/s]
+Loading weights:   8%|8         | 28/338 [00:00<00:02, 112.51it/s]
+Loading weights:  12%|#1        | 40/338 [00:00<00:03, 78.63it/s] 
+Loading weights:  24%|##3       | 81/338 [00:00<00:01, 163.87it/s]
+Loading weights:  30%|##9       | 101/338 [00:00<00:01, 140.27it/s]
+Loading weights:  35%|###5      | 119/338 [00:00<00:01, 124.38it/s]
+Loading weights:  39%|###9      | 133/338 [00:01<00:01, 122.71it/s]
+Loading weights:  43%|####3     | 147/338 [00:01<00:01, 120.74it/s]
+Loading weights:  47%|####7     | 160/338 [00:01<00:01, 92.62it/s] 
+Loading weights:  51%|#####1    | 173/338 [00:01<00:01, 99.13it/s]
+Loading weights:  57%|#####7    | 194/338 [00:01<00:01, 101.56it/s]
+Loading weights:  62%|######1   | 209/338 [00:01<00:01, 110.64it/s]
+Loading weights:  68%|######8   | 230/338 [00:02<00:00, 112.15it/s]
+Loading weights:  72%|#######1  | 242/338 [00:02<00:00, 111.13it/s]
+Loading weights:  75%|#######5  | 254/338 [00:02<00:00, 95.72it/s] 
+Loading weights:  79%|#######8  | 266/338 [00:02<00:00, 99.91it/s]
+Loading weights:  83%|########3 | 282/338 [00:02<00:00, 112.50it/s]
+Loading weights: 100%|##########| 338/338 [00:02<00:00, 133.43it/s]
+
+[vlm imnet] fold 2: Qwen/Qwen2.5-1.5B-Instruct | train 1248 | test 317 | 468 steps
+  ep 0 step 50/468 loss 1.035
+  ep 0 step 100/468 loss 0.273
+  ep 0 step 150/468 loss 0.255
+  epoch 0: mean loss 0.511 | 1.9 min
+  ep 1 step 200/468 loss 0.244
+  ep 1 step 250/468 loss 0.239
+  ep 1 step 300/468 loss 0.239
+  epoch 1: mean loss 0.241 | 3.8 min
+  ep 2 step 350/468 loss 0.233
+  ep 2 step 400/468 loss 0.228
+  ep 2 step 450/468 loss 0.231
+  epoch 2: mean loss 0.230 | 5.8 min
+~\.conda\envs\soop\Lib\site-packages\transformers\generation\utils.py:1456: UserWarning: Passing `repetition_penalty` with `inputs_embeds` and without `input_ids` to `generate` will apply the penalty only to newly generated tokens, not to the prompt.
+  warnings.warn(
+  generated 16/317
+  generated 32/317
+  generated 48/317
+  generated 64/317
+  generated 80/317
+  generated 96/317
+  generated 112/317
+  generated 128/317
+  generated 144/317
+  generated 160/317
+  generated 176/317
+  generated 192/317
+  generated 208/317
+  generated 224/317
+  generated 240/317
+  generated 256/317
+  generated 272/317
+  generated 288/317
+  generated 304/317
+  generated 317/317
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[vlm imnet] fold 2 done in 9.3 min
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]
+Loading weights:   6%|5         | 19/338 [00:00<00:01, 185.22it/s]
+Loading weights:  11%|#1        | 38/338 [00:00<00:02, 106.10it/s]
+Loading weights:  15%|#5        | 52/338 [00:00<00:03, 90.66it/s] 
+Loading weights:  19%|#9        | 65/338 [00:00<00:02, 98.25it/s]
+Loading weights:  25%|##4       | 83/338 [00:00<00:02, 117.84it/s]
+Loading weights:  30%|###       | 103/338 [00:00<00:01, 133.77it/s]
+Loading weights:  35%|###4      | 118/338 [00:01<00:02, 96.10it/s] 
+Loading weights:  38%|###8      | 130/338 [00:01<00:02, 91.79it/s]
+Loading weights:  44%|####4     | 149/338 [00:01<00:01, 112.43it/s]
+Loading weights:  48%|####8     | 163/338 [00:01<00:01, 115.08it/s]
+Loading weights:  52%|#####2    | 176/338 [00:01<00:01, 103.60it/s]
+Loading weights:  57%|#####7    | 193/338 [00:01<00:01, 111.79it/s]
+Loading weights:  62%|######1   | 208/338 [00:01<00:01, 101.16it/s]
+Loading weights:  65%|######4   | 219/338 [00:02<00:01, 70.39it/s] 
+Loading weights:  67%|######7   | 228/338 [00:02<00:01, 55.91it/s]
+Loading weights:  70%|#######   | 238/338 [00:02<00:01, 55.22it/s]
+Loading weights: 100%|##########| 338/338 [00:02<00:00, 123.30it/s]
+
+[vlm imnet] fold 3: Qwen/Qwen2.5-1.5B-Instruct | train 1263 | test 302 | 474 steps
+  ep 0 step 50/474 loss 1.099
+  ep 0 step 100/474 loss 0.274
+  ep 0 step 150/474 loss 0.259
+  epoch 0: mean loss 0.529 | 1.8 min
+  ep 1 step 200/474 loss 0.244
+  ep 1 step 250/474 loss 0.240
+  ep 1 step 300/474 loss 0.242
+  epoch 1: mean loss 0.242 | 3.4 min
+  ep 2 step 350/474 loss 0.235
+  ep 2 step 400/474 loss 0.231
+  ep 2 step 450/474 loss 0.229
+  epoch 2: mean loss 0.231 | 5.0 min
+~\.conda\envs\soop\Lib\site-packages\transformers\generation\utils.py:1456: UserWarning: Passing `repetition_penalty` with `inputs_embeds` and without `input_ids` to `generate` will apply the penalty only to newly generated tokens, not to the prompt.
+  warnings.warn(
+  generated 16/302
+  generated 32/302
+  generated 48/302
+  generated 64/302
+  generated 80/302
+  generated 96/302
+  generated 112/302
+  generated 128/302
+  generated 144/302
+  generated 160/302
+  generated 176/302
+  generated 192/302
+  generated 208/302
+  generated 224/302
+  generated 240/302
+  generated 256/302
+  generated 272/302
+  generated 288/302
+  generated 302/302
+[vlm imnet] fold 3 done in 8.0 min
+
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]
+Loading weights:   5%|5         | 18/338 [00:00<00:02, 108.29it/s]
+Loading weights:  19%|#9        | 65/338 [00:00<00:00, 273.88it/s]
+Loading weights:  29%|##8       | 97/338 [00:00<00:01, 131.72it/s]
+Loading weights:  35%|###4      | 118/338 [00:00<00:01, 128.29it/s]
+Loading weights:  41%|####1     | 140/338 [00:00<00:01, 141.34it/s]
+Loading weights:  47%|####6     | 158/338 [00:01<00:01, 120.62it/s]
+Loading weights:  51%|#####1    | 173/338 [00:01<00:01, 95.09it/s] 
+Loading weights:  55%|#####5    | 187/338 [00:01<00:01, 102.95it/s]
+Loading weights:  59%|#####9    | 200/338 [00:01<00:01, 100.44it/s]
+Loading weights:  63%|######2   | 212/338 [00:01<00:01, 98.97it/s] 
+Loading weights:  66%|######5   | 223/338 [00:01<00:01, 100.25it/s]
+Loading weights:  70%|#######   | 238/338 [00:02<00:00, 111.88it/s]
+Loading weights:  74%|#######3  | 250/338 [00:02<00:00, 88.24it/s] 
+Loading weights: 100%|##########| 338/338 [00:02<00:00, 149.62it/s]
+
+[vlm imnet] fold 4: Qwen/Qwen2.5-1.5B-Instruct | train 1261 | test 304 | 474 steps
+  ep 0 step 50/474 loss 1.041
+  ep 0 step 100/474 loss 0.274
+  ep 0 step 150/474 loss 0.258
+  epoch 0: mean loss 0.510 | 1.6 min
+  ep 1 step 200/474 loss 0.246
+  ep 1 step 250/474 loss 0.242
+  ep 1 step 300/474 loss 0.241
+  epoch 1: mean loss 0.242 | 3.2 min
+  ep 2 step 350/474 loss 0.232
+  ep 2 step 400/474 loss 0.233
+  ep 2 step 450/474 loss 0.231
+  epoch 2: mean loss 0.231 | 4.9 min
+~\.conda\envs\soop\Lib\site-packages\transformers\generation\utils.py:1456: UserWarning: Passing `repetition_penalty` with `inputs_embeds` and without `input_ids` to `generate` will apply the penalty only to newly generated tokens, not to the prompt.
+  warnings.warn(
+  generated 16/304
+  generated 32/304
+  generated 48/304
+  generated 64/304
+  generated 80/304
+  generated 96/304
+  generated 112/304
+  generated 128/304
+  generated 144/304
+  generated 160/304
+  generated 176/304
+  generated 192/304
+  generated 208/304
+  generated 224/304
+  generated 240/304
+  generated 256/304
+  generated 272/304
+  generated 288/304
+  generated 304/304
+[vlm imnet] fold 4 done in 7.7 min

@@ -1,0 +1,35 @@
+source,metric,value,lo,hi,d_ref,d_lo,d_hi
+Full model,acc_side,0.8174,0.796,0.8377,,,
+Full model,acc_vol_bin,0.7105,0.6864,0.734,,,
+Full model,acc_multiple,0.6947,0.6726,0.7181,,,
+Full model,acc_chronic,0.8952,0.8811,0.9104,,,
+Full model,acc_restr,0.6072,0.5803,0.6337,,,
+Full model,terr_f1,0.7187,0.7028,0.7354,,,
+Full model,terr_exact,0.499,0.4742,0.5258,,,
+Full model,all_correct,0.3239,0.3008,0.3477,,,
+Full model,halluc,0.2313,0.2126,0.2501,,,
+Full model,omission,0.3252,0.3077,0.3428,,,
+Full model,f1_ACA,0.5987,0.5462,0.6472,,,
+Full model,f1_MCA,0.8606,0.8447,0.8775,,,
+Full model,f1_DEEP,0.6473,0.6082,0.6885,,,
+Full model,f1_PCA,0.5733,0.5068,0.6361,,,
+Full model,f1_THAL,0.4091,0.3229,0.4878,,,
+Full model,f1_BS,0.4571,0.3524,0.5512,,,
+Full model,f1_CEREB,0.6642,0.5935,0.7323,,,
+Joint set classifier,acc_side,0.8015,0.7819,0.8215,0.0159,-0.0014,0.0331
+Joint set classifier,acc_vol_bin,0.7126,0.6906,0.734,-0.0021,-0.0245,0.02
+Joint set classifier,acc_multiple,0.6775,0.6557,0.7019,0.0172,-0.0034,0.0358
+Joint set classifier,acc_chronic,0.8904,0.8753,0.9063,0.0048,-0.009,0.0183
+Joint set classifier,acc_restr,0.5534,0.5279,0.58,0.0538,0.0296,0.0765
+Joint set classifier,terr_f1,0.735,0.7189,0.7526,-0.0164,-0.0298,-0.0024
+Joint set classifier,terr_exact,0.5238,0.4986,0.5483,-0.0248,-0.0455,-0.0014
+Joint set classifier,all_correct,0.3418,0.3184,0.367,-0.0179,-0.0424,0.0052
+Joint set classifier,halluc,0.2314,0.2124,0.2487,-0.0,-0.0164,0.0151
+Joint set classifier,omission,0.2957,0.2766,0.3135,0.0295,0.0139,0.0445
+Joint set classifier,f1_ACA,0.6422,0.5934,0.6921,-0.0436,-0.0891,0.0013
+Joint set classifier,f1_MCA,0.865,0.8497,0.8815,-0.0044,-0.0189,0.0103
+Joint set classifier,f1_DEEP,0.6696,0.6291,0.7105,-0.0223,-0.0606,0.0146
+Joint set classifier,f1_PCA,0.686,0.625,0.7346,-0.1128,-0.1591,-0.0615
+Joint set classifier,f1_THAL,0.6008,0.5265,0.6768,-0.1917,-0.2696,-0.1045
+Joint set classifier,f1_BS,0.2667,0.1852,0.3468,0.1905,0.1054,0.2768
+Joint set classifier,f1_CEREB,0.6477,0.582,0.7163,0.0165,-0.0426,0.0686

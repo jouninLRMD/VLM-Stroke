@@ -1,0 +1,435 @@
+~\.conda\envs\soop\Lib\site-packages\huggingface_hub\file_download.py:149: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in ~\.cache\huggingface\hub\models--Qwen--Qwen2.5-3B-Instruct. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+  warnings.warn(message)
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]~\.conda\envs\soop\Lib\site-packages\huggingface_hub\file_download.py:149: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in ~\.cache\huggingface\hub. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+  warnings.warn(message)
+
+Fetching 2 files:  50%|#####     | 1/2 [00:47<00:47, 47.91s/it]
+Fetching 2 files: 100%|##########| 2/2 [00:48<00:00, 20.02s/it]
+Fetching 2 files: 100%|##########| 2/2 [00:48<00:00, 24.21s/it]
+
+Loading weights:   0%|          | 0/434 [00:00<?, ?it/s]
+Loading weights:   1%|1         | 6/434 [00:00<00:08, 52.88it/s]
+Loading weights:   3%|2         | 12/434 [00:00<00:12, 33.60it/s]
+Loading weights:   4%|3         | 16/434 [00:00<00:13, 30.11it/s]
+Loading weights:   5%|5         | 23/434 [00:00<00:10, 39.81it/s]
+Loading weights:   7%|7         | 32/434 [00:00<00:09, 40.40it/s]
+Loading weights:   9%|8         | 37/434 [00:01<00:12, 32.38it/s]
+Loading weights:   9%|9         | 41/434 [00:01<00:12, 32.09it/s]
+Loading weights:  12%|#2        | 53/434 [00:01<00:09, 42.20it/s]
+Loading weights:  15%|#4        | 63/434 [00:01<00:07, 51.50it/s]
+Loading weights:  16%|#5        | 69/434 [00:01<00:08, 44.37it/s]
+Loading weights:  17%|#7        | 74/434 [00:01<00:08, 42.88it/s]
+Loading weights:  19%|#9        | 83/434 [00:01<00:07, 48.15it/s]
+Loading weights:  23%|##2       | 98/434 [00:02<00:04, 67.78it/s]
+Loading weights:  32%|###1      | 138/434 [00:02<00:02, 142.87it/s]
+Loading weights:  36%|###5      | 155/434 [00:02<00:03, 79.46it/s] 
+Loading weights:  39%|###8      | 168/434 [00:02<00:03, 68.13it/s]
+Loading weights:  42%|####2     | 184/434 [00:03<00:03, 71.38it/s]
+Loading weights:  45%|####5     | 197/434 [00:03<00:04, 52.28it/s]
+Loading weights:  48%|####7     | 208/434 [00:03<00:04, 52.09it/s]
+Loading weights:  50%|####9     | 215/434 [00:04<00:04, 46.16it/s]
+Loading weights:  51%|#####1    | 222/434 [00:04<00:05, 41.82it/s]
+Loading weights:  52%|#####2    | 227/434 [00:04<00:05, 37.55it/s]
+Loading weights:  56%|#####5    | 241/434 [00:04<00:04, 43.97it/s]
+Loading weights:  57%|#####6    | 246/434 [00:04<00:04, 44.08it/s]
+Loading weights:  59%|#####9    | 257/434 [00:05<00:04, 44.19it/s]
+Loading weights:  61%|######1   | 266/434 [00:05<00:03, 43.32it/s]
+Loading weights:  64%|######3   | 276/434 [00:05<00:03, 48.41it/s]
+Loading weights:  65%|######4   | 282/434 [00:05<00:03, 42.26it/s]
+Loading weights:  68%|######7   | 293/434 [00:05<00:03, 41.10it/s]
+Loading weights:  69%|######8   | 298/434 [00:06<00:03, 41.88it/s]
+Loading weights:  70%|######9   | 303/434 [00:06<00:03, 39.77it/s]
+Loading weights:  73%|#######2  | 315/434 [00:06<00:02, 45.05it/s]
+Loading weights:  75%|#######4  | 324/434 [00:06<00:02, 45.34it/s]
+Loading weights:  76%|#######6  | 330/434 [00:06<00:02, 40.52it/s]
+Loading weights:  79%|#######8  | 341/434 [00:06<00:01, 50.13it/s]
+Loading weights:  81%|########  | 350/434 [00:07<00:01, 53.67it/s]
+Loading weights:  82%|########2 | 358/434 [00:07<00:01, 57.82it/s]
+Loading weights:  84%|########4 | 365/434 [00:07<00:01, 45.82it/s]
+Loading weights:  86%|########6 | 375/434 [00:07<00:01, 49.63it/s]
+Loading weights:  88%|########7 | 381/434 [00:07<00:01, 35.63it/s]
+Loading weights:  89%|########8 | 386/434 [00:08<00:01, 31.04it/s]
+Loading weights:  91%|######### | 394/434 [00:08<00:01, 37.02it/s]
+Loading weights: 100%|##########| 434/434 [00:08<00:00, 52.05it/s]
+
+[vlm llm3b] fold 0: Qwen/Qwen2.5-3B-Instruct | train 1251 | test 314 | 939 steps
+[transformers] `use_cache=True` is incompatible with gradient checkpointing. Setting `use_cache=False`.
+  ep 0 step 50/939 loss 4.453
+  ep 0 step 100/939 loss 0.311
+  ep 0 step 150/939 loss 0.264
+  ep 0 step 200/939 loss 0.255
+  ep 0 step 250/939 loss 0.248
+  ep 0 step 300/939 loss 0.244
+  epoch 0: mean loss 0.933 | 4.1 min
+  ep 1 step 350/939 loss 0.230
+  ep 1 step 400/939 loss 0.230
+  ep 1 step 450/939 loss 0.227
+  ep 1 step 500/939 loss 0.220
+  ep 1 step 550/939 loss 0.219
+  ep 1 step 600/939 loss 0.239
+  epoch 1: mean loss 0.229 | 8.4 min
+  ep 2 step 650/939 loss 0.206
+  ep 2 step 700/939 loss 0.236
+  ep 2 step 750/939 loss 0.207
+  ep 2 step 800/939 loss 0.201
+  ep 2 step 850/939 loss 0.197
+  ep 2 step 900/939 loss 0.201
+  epoch 2: mean loss 0.207 | 12.6 min
+~\.conda\envs\soop\Lib\site-packages\transformers\generation\utils.py:1456: UserWarning: Passing `repetition_penalty` with `inputs_embeds` and without `input_ids` to `generate` will apply the penalty only to newly generated tokens, not to the prompt.
+  warnings.warn(
+  generated 16/314
+  generated 32/314
+  generated 48/314
+  generated 64/314
+  generated 80/314
+  generated 96/314
+  generated 112/314
+  generated 128/314
+  generated 144/314
+  generated 160/314
+  generated 176/314
+  generated 192/314
+  generated 208/314
+  generated 224/314
+  generated 240/314
+  generated 256/314
+  generated 272/314
+  generated 288/314
+  generated 304/314
+  generated 314/314
+[vlm llm3b] fold 0 done in 16.9 min
+
+Loading weights:   0%|          | 0/434 [00:00<?, ?it/s]
+Loading weights:   2%|1         | 7/434 [00:00<00:07, 60.75it/s]
+Loading weights:   3%|3         | 14/434 [00:00<00:10, 39.69it/s]
+Loading weights:   7%|6         | 30/434 [00:00<00:06, 64.34it/s]
+Loading weights:   9%|8         | 37/434 [00:00<00:07, 53.48it/s]
+Loading weights:  10%|#         | 45/434 [00:00<00:07, 54.71it/s]
+Loading weights:  12%|#2        | 53/434 [00:00<00:06, 58.79it/s]
+Loading weights:  14%|#3        | 60/434 [00:01<00:06, 57.12it/s]
+Loading weights:  15%|#5        | 66/434 [00:01<00:06, 53.97it/s]
+Loading weights:  18%|#7        | 78/434 [00:01<00:05, 69.18it/s]
+Loading weights:  22%|##1       | 94/434 [00:01<00:04, 79.57it/s]
+Loading weights:  24%|##3       | 103/434 [00:01<00:04, 71.89it/s]
+Loading weights:  27%|##6       | 116/434 [00:01<00:03, 82.70it/s]
+Loading weights:  29%|##8       | 125/434 [00:01<00:04, 67.24it/s]
+Loading weights:  34%|###3      | 147/434 [00:02<00:02, 98.62it/s]
+Loading weights:  37%|###6      | 159/434 [00:02<00:03, 90.07it/s]
+Loading weights:  39%|###9      | 170/434 [00:02<00:03, 86.10it/s]
+Loading weights:  41%|####1     | 180/434 [00:02<00:03, 81.58it/s]
+Loading weights:  44%|####3     | 190/434 [00:02<00:02, 83.49it/s]
+Loading weights:  48%|####8     | 210/434 [00:02<00:02, 103.76it/s]
+Loading weights:  54%|#####4    | 235/434 [00:02<00:01, 128.89it/s]
+Loading weights:  57%|#####7    | 249/434 [00:02<00:01, 129.82it/s]
+Loading weights:  61%|######1   | 266/434 [00:03<00:01, 109.67it/s]
+Loading weights:  64%|######4   | 278/434 [00:03<00:01, 97.19it/s] 
+Loading weights:  67%|######6   | 289/434 [00:03<00:01, 91.28it/s]
+Loading weights:  69%|######9   | 301/434 [00:03<00:01, 89.85it/s]
+Loading weights:  73%|#######2  | 315/434 [00:03<00:01, 98.88it/s]
+Loading weights:  75%|#######5  | 326/434 [00:03<00:01, 98.58it/s]
+Loading weights:  78%|#######7  | 337/434 [00:04<00:01, 93.19it/s]
+Loading weights:  80%|#######9  | 347/434 [00:04<00:01, 58.69it/s]
+Loading weights:  84%|########4 | 366/434 [00:04<00:01, 64.87it/s]
+Loading weights:  86%|########6 | 374/434 [00:04<00:01, 58.32it/s]
+Loading weights:  88%|########7 | 381/434 [00:05<00:01, 48.52it/s]
+Loading weights:  89%|########9 | 387/434 [00:05<00:01, 44.49it/s]
+Loading weights: 100%|##########| 434/434 [00:05<00:00, 82.65it/s]
+
+[vlm llm3b] fold 1: Qwen/Qwen2.5-3B-Instruct | train 1237 | test 328 | 930 steps
+  ep 0 step 50/930 loss 3.594
+  ep 0 step 100/930 loss 0.457
+  ep 0 step 150/930 loss 0.286
+  ep 0 step 200/930 loss 0.260
+  ep 0 step 250/930 loss 0.250
+  ep 0 step 300/930 loss 0.237
+  epoch 0: mean loss 0.827 | 4.6 min
+  ep 1 step 350/930 loss 0.237
+  ep 1 step 400/930 loss 0.233
+  ep 1 step 450/930 loss 0.219
+  ep 1 step 500/930 loss 0.216
+  ep 1 step 550/930 loss 0.217
+  ep 1 step 600/930 loss 0.212
+  epoch 1: mean loss 0.221 | 9.3 min
+  ep 2 step 650/930 loss 0.203
+  ep 2 step 700/930 loss 0.201
+  ep 2 step 750/930 loss 0.203
+  ep 2 step 800/930 loss 0.202
+  ep 2 step 850/930 loss 0.198
+  ep 2 step 900/930 loss 0.194
+  epoch 2: mean loss 0.199 | 13.9 min
+~\.conda\envs\soop\Lib\site-packages\transformers\generation\utils.py:1456: UserWarning: Passing `repetition_penalty` with `inputs_embeds` and without `input_ids` to `generate` will apply the penalty only to newly generated tokens, not to the prompt.
+  warnings.warn(
+  generated 16/328
+  generated 32/328
+  generated 48/328
+  generated 64/328
+  generated 80/328
+  generated 96/328
+  generated 112/328
+  generated 128/328
+  generated 144/328
+  generated 160/328
+  generated 176/328
+  generated 192/328
+  generated 208/328
+  generated 224/328
+  generated 240/328
+  generated 256/328
+  generated 272/328
+  generated 288/328
+  generated 304/328
+  generated 320/328
+  generated 328/328
+[vlm llm3b] fold 1 done in 18.9 min
+
+Loading weights:   0%|          | 0/434 [00:00<?, ?it/s]
+Loading weights:   2%|2         | 10/434 [00:00<00:12, 35.04it/s]
+Loading weights:   5%|4         | 20/434 [00:00<00:09, 44.17it/s]
+Loading weights:   6%|5         | 25/434 [00:00<00:08, 45.67it/s]
+Loading weights:   7%|7         | 32/434 [00:00<00:08, 46.83it/s]
+Loading weights:  11%|#1        | 49/434 [00:00<00:05, 76.77it/s]
+Loading weights:  13%|#3        | 58/434 [00:01<00:06, 53.89it/s]
+Loading weights:  15%|#5        | 67/434 [00:01<00:06, 54.52it/s]
+Loading weights:  17%|#7        | 74/434 [00:01<00:06, 54.50it/s]
+Loading weights:  20%|#9        | 86/434 [00:01<00:05, 64.31it/s]
+Loading weights:  22%|##1       | 94/434 [00:01<00:06, 54.72it/s]
+Loading weights:  23%|##3       | 101/434 [00:01<00:06, 51.59it/s]
+Loading weights:  25%|##4       | 107/434 [00:02<00:07, 43.76it/s]
+Loading weights:  28%|##7       | 120/434 [00:02<00:06, 49.49it/s]
+Loading weights:  30%|###       | 131/434 [00:02<00:05, 55.71it/s]
+Loading weights:  33%|###3      | 144/434 [00:02<00:04, 63.67it/s]
+Loading weights:  35%|###4      | 151/434 [00:02<00:06, 47.10it/s]
+Loading weights:  37%|###6      | 160/434 [00:03<00:05, 51.57it/s]
+Loading weights:  40%|###9      | 172/434 [00:03<00:04, 60.29it/s]
+Loading weights:  41%|####1     | 180/434 [00:03<00:05, 49.27it/s]
+Loading weights:  43%|####2     | 186/434 [00:03<00:06, 41.24it/s]
+Loading weights:  44%|####4     | 193/434 [00:03<00:05, 40.62it/s]
+Loading weights:  46%|####6     | 200/434 [00:03<00:05, 43.83it/s]
+Loading weights:  47%|####7     | 205/434 [00:04<00:06, 35.10it/s]
+Loading weights:  51%|#####     | 221/434 [00:04<00:03, 57.08it/s]
+Loading weights:  53%|#####2    | 229/434 [00:04<00:04, 50.09it/s]
+Loading weights:  54%|#####4    | 236/434 [00:04<00:03, 50.85it/s]
+Loading weights:  56%|#####5    | 243/434 [00:04<00:03, 49.63it/s]
+Loading weights:  57%|#####7    | 249/434 [00:04<00:04, 43.83it/s]
+Loading weights:  63%|######2   | 272/434 [00:05<00:02, 70.79it/s]
+Loading weights:  65%|######4   | 280/434 [00:05<00:02, 65.31it/s]
+Loading weights:  66%|######6   | 287/434 [00:05<00:03, 47.22it/s]
+Loading weights:  68%|######7   | 293/434 [00:05<00:03, 44.17it/s]
+Loading weights: 100%|##########| 434/434 [00:05<00:00, 74.81it/s]
+
+[vlm llm3b] fold 2: Qwen/Qwen2.5-3B-Instruct | train 1248 | test 317 | 936 steps
+  ep 0 step 50/936 loss 3.754
+  ep 0 step 100/936 loss 0.332
+  ep 0 step 150/936 loss 0.264
+  ep 0 step 200/936 loss 0.261
+  ep 0 step 250/936 loss 0.237
+  ep 0 step 300/936 loss 0.231
+  epoch 0: mean loss 0.823 | 4.5 min
+  ep 1 step 350/936 loss 0.219
+  ep 1 step 400/936 loss 0.222
+  ep 1 step 450/936 loss 0.213
+  ep 1 step 500/936 loss 0.211
+  ep 1 step 550/936 loss 0.210
+  ep 1 step 600/936 loss 0.210
+  epoch 1: mean loss 0.214 | 9.1 min
+  ep 2 step 650/936 loss 0.205
+  ep 2 step 700/936 loss 0.198
+  ep 2 step 750/936 loss 0.194
+  ep 2 step 800/936 loss 0.192
+  ep 2 step 850/936 loss 0.194
+  ep 2 step 900/936 loss 0.196
+  epoch 2: mean loss 0.195 | 13.7 min
+~\.conda\envs\soop\Lib\site-packages\transformers\generation\utils.py:1456: UserWarning: Passing `repetition_penalty` with `inputs_embeds` and without `input_ids` to `generate` will apply the penalty only to newly generated tokens, not to the prompt.
+  warnings.warn(
+  generated 16/317
+  generated 32/317
+  generated 48/317
+  generated 64/317
+  generated 80/317
+  generated 96/317
+  generated 112/317
+  generated 128/317
+  generated 144/317
+  generated 160/317
+  generated 176/317
+  generated 192/317
+  generated 208/317
+  generated 224/317
+  generated 240/317
+  generated 256/317
+  generated 272/317
+  generated 288/317
+  generated 304/317
+  generated 317/317
+[vlm llm3b] fold 2 done in 18.5 min
+
+Loading weights:   0%|          | 0/434 [00:00<?, ?it/s]
+Loading weights:   1%|1         | 5/434 [00:00<00:13, 32.98it/s]
+Loading weights:   4%|3         | 17/434 [00:00<00:07, 59.27it/s]
+Loading weights:   5%|5         | 23/434 [00:00<00:09, 45.21it/s]
+Loading weights:   6%|6         | 28/434 [00:00<00:11, 36.83it/s]
+Loading weights:   9%|8         | 37/434 [00:00<00:09, 43.90it/s]
+Loading weights:  10%|9         | 43/434 [00:00<00:08, 43.52it/s]
+Loading weights:  11%|#1        | 48/434 [00:01<00:10, 36.73it/s]
+Loading weights:  12%|#1        | 52/434 [00:01<00:12, 30.47it/s]
+Loading weights:  13%|#2        | 56/434 [00:01<00:12, 29.41it/s]
+Loading weights:  14%|#3        | 60/434 [00:01<00:13, 27.49it/s]
+Loading weights:  15%|#4        | 64/434 [00:01<00:13, 27.51it/s]
+Loading weights:  17%|#7        | 75/434 [00:01<00:08, 42.89it/s]
+Loading weights:  19%|#8        | 82/434 [00:02<00:07, 45.93it/s]
+Loading weights:  22%|##1       | 95/434 [00:02<00:05, 64.68it/s]
+Loading weights:  24%|##3       | 103/434 [00:02<00:07, 45.05it/s]
+Loading weights:  26%|##6       | 115/434 [00:02<00:06, 51.18it/s]
+Loading weights:  28%|##8       | 122/434 [00:02<00:06, 48.43it/s]
+Loading weights:  29%|##9       | 128/434 [00:03<00:06, 45.42it/s]
+Loading weights:  32%|###1      | 138/434 [00:03<00:05, 55.93it/s]
+Loading weights:  33%|###3      | 145/434 [00:03<00:06, 48.09it/s]
+Loading weights:  35%|###4      | 151/434 [00:03<00:07, 38.32it/s]
+Loading weights:  36%|###5      | 156/434 [00:03<00:08, 34.41it/s]
+Loading weights:  38%|###7      | 163/434 [00:03<00:07, 37.60it/s]
+Loading weights:  39%|###8      | 168/434 [00:04<00:06, 39.22it/s]
+Loading weights:  41%|####      | 177/434 [00:04<00:07, 32.83it/s]
+Loading weights:  42%|####1     | 182/434 [00:04<00:09, 26.20it/s]
+Loading weights:  45%|####4     | 195/434 [00:04<00:06, 38.76it/s]
+Loading weights:  46%|####6     | 200/434 [00:04<00:05, 40.18it/s]
+Loading weights:  47%|####7     | 205/434 [00:05<00:06, 33.01it/s]
+Loading weights:  48%|####8     | 210/434 [00:05<00:06, 33.65it/s]
+Loading weights:  49%|####9     | 214/434 [00:05<00:06, 31.73it/s]
+Loading weights:  52%|#####2    | 227/434 [00:05<00:04, 50.89it/s]
+Loading weights:  54%|#####4    | 235/434 [00:05<00:04, 42.12it/s]
+Loading weights:  57%|#####6    | 247/434 [00:06<00:03, 54.31it/s]
+Loading weights:  59%|#####8    | 254/434 [00:06<00:03, 52.66it/s]
+Loading weights:  62%|######2   | 271/434 [00:06<00:02, 73.83it/s]
+Loading weights: 100%|##########| 434/434 [00:06<00:00, 68.25it/s]
+
+[vlm llm3b] fold 3: Qwen/Qwen2.5-3B-Instruct | train 1263 | test 302 | 948 steps
+  ep 0 step 50/948 loss 1.638
+  ep 0 step 100/948 loss 0.306
+  ep 0 step 150/948 loss 0.262
+  ep 0 step 200/948 loss 0.249
+  ep 0 step 250/948 loss 3.202
+  ep 0 step 300/948 loss 0.255
+  epoch 0: mean loss 0.948 | 4.8 min
+  ep 1 step 350/948 loss 0.224
+  ep 1 step 400/948 loss 0.228
+  ep 1 step 450/948 loss 0.225
+  ep 1 step 500/948 loss 0.227
+  ep 1 step 550/948 loss 0.221
+  ep 1 step 600/948 loss 0.217
+  epoch 1: mean loss 0.223 | 9.5 min
+  ep 2 step 650/948 loss 0.219
+  ep 2 step 700/948 loss 0.206
+  ep 2 step 750/948 loss 0.213
+  ep 2 step 800/948 loss 0.201
+  ep 2 step 850/948 loss 0.201
+  ep 2 step 900/948 loss 0.199
+  epoch 2: mean loss 0.204 | 14.0 min
+~\.conda\envs\soop\Lib\site-packages\transformers\generation\utils.py:1456: UserWarning: Passing `repetition_penalty` with `inputs_embeds` and without `input_ids` to `generate` will apply the penalty only to newly generated tokens, not to the prompt.
+  warnings.warn(
+  generated 16/302
+  generated 32/302
+  generated 48/302
+  generated 64/302
+  generated 80/302
+  generated 96/302
+  generated 112/302
+  generated 128/302
+  generated 144/302
+  generated 160/302
+  generated 176/302
+  generated 192/302
+  generated 208/302
+  generated 224/302
+  generated 240/302
+  generated 256/302
+  generated 272/302
+  generated 288/302
+  generated 302/302
+[vlm llm3b] fold 3 done in 18.5 min
+
+Loading weights:   0%|          | 0/434 [00:00<?, ?it/s]
+Loading weights:   3%|2         | 12/434 [00:00<00:04, 101.71it/s]
+Loading weights:   5%|5         | 23/434 [00:00<00:04, 97.42it/s] 
+Loading weights:   8%|7         | 33/434 [00:00<00:05, 70.52it/s]
+Loading weights:   9%|9         | 41/434 [00:00<00:05, 70.58it/s]
+Loading weights:  12%|#1        | 50/434 [00:00<00:05, 66.99it/s]
+Loading weights:  13%|#3        | 57/434 [00:01<00:09, 39.39it/s]
+Loading weights:  15%|#4        | 64/434 [00:01<00:08, 41.76it/s]
+Loading weights:  16%|#6        | 70/434 [00:01<00:12, 30.03it/s]
+Loading weights:  17%|#7        | 75/434 [00:02<00:19, 18.07it/s]
+Loading weights:  18%|#8        | 79/434 [00:02<00:18, 19.65it/s]
+Loading weights:  20%|#9        | 86/434 [00:02<00:14, 24.39it/s]
+Loading weights:  21%|##        | 90/434 [00:02<00:13, 25.25it/s]
+Loading weights:  24%|##3       | 103/434 [00:02<00:09, 33.48it/s]
+Loading weights:  27%|##6       | 116/434 [00:03<00:06, 47.94it/s]
+Loading weights:  28%|##8       | 123/434 [00:03<00:08, 35.54it/s]
+Loading weights:  31%|###       | 133/434 [00:03<00:08, 35.95it/s]
+Loading weights:  32%|###1      | 138/434 [00:04<00:11, 25.77it/s]
+Loading weights:  33%|###2      | 143/434 [00:04<00:10, 28.30it/s]
+Loading weights:  34%|###4      | 149/434 [00:04<00:09, 29.97it/s]
+Loading weights:  38%|###7      | 163/434 [00:04<00:05, 47.71it/s]
+Loading weights:  39%|###9      | 170/434 [00:04<00:06, 38.52it/s]
+Loading weights:  41%|####      | 176/434 [00:04<00:06, 41.80it/s]
+Loading weights:  43%|####2     | 185/434 [00:04<00:05, 49.11it/s]
+Loading weights:  51%|#####1    | 222/434 [00:05<00:02, 101.79it/s]
+Loading weights:  54%|#####3    | 234/434 [00:05<00:02, 82.56it/s] 
+Loading weights:  56%|#####6    | 244/434 [00:05<00:02, 71.29it/s]
+Loading weights:  58%|#####8    | 253/434 [00:05<00:02, 74.22it/s]
+Loading weights:  60%|######    | 262/434 [00:05<00:02, 70.71it/s]
+Loading weights:  62%|######2   | 270/434 [00:05<00:02, 68.19it/s]
+Loading weights:  64%|######4   | 279/434 [00:06<00:02, 70.95it/s]
+Loading weights:  68%|######8   | 297/434 [00:06<00:01, 84.52it/s]
+Loading weights:  73%|#######2  | 315/434 [00:06<00:01, 96.02it/s]
+Loading weights:  75%|#######4  | 325/434 [00:06<00:02, 47.83it/s]
+Loading weights:  83%|########2 | 360/434 [00:07<00:00, 86.90it/s]
+Loading weights:  86%|########6 | 374/434 [00:07<00:00, 83.89it/s]
+Loading weights: 100%|##########| 434/434 [00:07<00:00, 59.94it/s]
+
+[vlm llm3b] fold 4: Qwen/Qwen2.5-3B-Instruct | train 1261 | test 304 | 948 steps
+  ep 0 step 50/948 loss 3.171
+  ep 0 step 100/948 loss 0.410
+  ep 0 step 150/948 loss 0.301
+  ep 0 step 200/948 loss 0.249
+  ep 0 step 250/948 loss 0.247
+  ep 0 step 300/948 loss 0.239
+  epoch 0: mean loss 0.742 | 4.8 min
+  ep 1 step 350/948 loss 0.223
+  ep 1 step 400/948 loss 0.214
+  ep 1 step 450/948 loss 0.215
+  ep 1 step 500/948 loss 0.207
+  ep 1 step 550/948 loss 0.206
+  ep 1 step 600/948 loss 0.202
+  epoch 1: mean loss 0.210 | 9.5 min
+  ep 2 step 650/948 loss 0.190
+  ep 2 step 700/948 loss 0.193
+  ep 2 step 750/948 loss 0.185
+  ep 2 step 800/948 loss 0.188
+  ep 2 step 850/948 loss 0.187
+  ep 2 step 900/948 loss 0.181
+  epoch 2: mean loss 0.186 | 14.1 min
+~\.conda\envs\soop\Lib\site-packages\transformers\generation\utils.py:1456: UserWarning: Passing `repetition_penalty` with `inputs_embeds` and without `input_ids` to `generate` will apply the penalty only to newly generated tokens, not to the prompt.
+  warnings.warn(
+  generated 16/304
+  generated 32/304
+  generated 48/304
+  generated 64/304
+  generated 80/304
+  generated 96/304
+  generated 112/304
+  generated 128/304
+  generated 144/304
+  generated 160/304
+  generated 176/304
+  generated 192/304
+  generated 208/304
+  generated 224/304
+  generated 240/304
+  generated 256/304
+  generated 272/304
+  generated 288/304
+  generated 304/304
+[vlm llm3b] fold 4 done in 18.9 min

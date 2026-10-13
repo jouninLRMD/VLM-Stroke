@@ -1,0 +1,5 @@
+model,n,auc,ci,cal_slope,vlm_minus_this,delta_lo,delta_hi
+VLM (image + clinical text),718,0.773,"(np.float64(0.739), np.float64(0.806))",0.774,,,
+Clinical logistic (R0),718,0.756,"(np.float64(0.721), np.float64(0.79))",0.957,0.017,-0.015,0.05
+Clinical + expert lesion (R1b),718,0.798,"(np.float64(0.765), np.float64(0.829))",0.929,-0.025,-0.049,-0.002
+"2.5D anchored, seed 0",718,0.808,"(np.float64(0.774), np.float64(0.839))",0.818,-0.035,-0.062,-0.01

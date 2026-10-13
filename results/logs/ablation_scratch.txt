@@ -1,0 +1,339 @@
+
+[vlm scratch] fold 0: Qwen/Qwen2.5-1.5B-Instruct | train 1251 | test 314 | 1570 steps
+  ep 0 step 50/1570 loss 9.571
+  ep 0 step 100/1570 loss 3.342
+  ep 0 step 150/1570 loss 0.460
+  epoch 0: mean loss 4.275 | 0.5 min
+  ep 1 step 200/1570 loss 0.307
+  ep 1 step 250/1570 loss 0.272
+  ep 1 step 300/1570 loss 0.261
+  epoch 1: mean loss 0.276 | 0.8 min
+  ep 2 step 350/1570 loss 0.238
+  ep 2 step 400/1570 loss 0.235
+  ep 2 step 450/1570 loss 0.228
+  epoch 2: mean loss 0.232 | 1.1 min
+  ep 3 step 500/1570 loss 0.214
+  ep 3 step 550/1570 loss 0.217
+  ep 3 step 600/1570 loss 0.220
+  epoch 3: mean loss 0.216 | 1.4 min
+  ep 4 step 650/1570 loss 0.204
+  ep 4 step 700/1570 loss 0.205
+  ep 4 step 750/1570 loss 0.207
+  epoch 4: mean loss 0.205 | 1.7 min
+  ep 5 step 800/1570 loss 0.197
+  ep 5 step 850/1570 loss 0.197
+  ep 5 step 900/1570 loss 0.192
+  epoch 5: mean loss 0.195 | 2.0 min
+  ep 6 step 950/1570 loss 0.184
+  ep 6 step 1000/1570 loss 0.183
+  ep 6 step 1050/1570 loss 0.184
+  epoch 6: mean loss 0.185 | 2.3 min
+  ep 7 step 1100/1570 loss 0.173
+  ep 7 step 1150/1570 loss 0.173
+  ep 7 step 1200/1570 loss 0.177
+  ep 7 step 1250/1570 loss 0.176
+  epoch 7: mean loss 0.175 | 2.6 min
+  ep 8 step 1300/1570 loss 0.168
+  ep 8 step 1350/1570 loss 0.164
+  ep 8 step 1400/1570 loss 0.166
+  epoch 8: mean loss 0.165 | 2.9 min
+  ep 9 step 1450/1570 loss 0.159
+  ep 9 step 1500/1570 loss 0.157
+  ep 9 step 1550/1570 loss 0.157
+  epoch 9: mean loss 0.158 | 3.2 min
+  generated 16/314
+  generated 32/314
+  generated 48/314
+  generated 64/314
+  generated 80/314
+  generated 96/314
+  generated 112/314
+  generated 128/314
+  generated 144/314
+  generated 160/314
+  generated 176/314
+  generated 192/314
+  generated 208/314
+  generated 224/314
+  generated 240/314
+  generated 256/314
+  generated 272/314
+  generated 288/314
+  generated 304/314
+  generated 314/314
+
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]
+Writing model shards: 100%|##########| 1/1 [00:00<00:00,  3.84it/s]
+Writing model shards: 100%|##########| 1/1 [00:00<00:00,  3.84it/s]
+[vlm scratch] fold 0 done in 3.6 min
+
+[vlm scratch] fold 1: Qwen/Qwen2.5-1.5B-Instruct | train 1237 | test 328 | 1550 steps
+  ep 0 step 50/1550 loss 9.535
+  ep 0 step 100/1550 loss 3.284
+  ep 0 step 150/1550 loss 0.451
+  epoch 0: mean loss 4.292 | 0.5 min
+  ep 1 step 200/1550 loss 0.317
+  ep 1 step 250/1550 loss 0.269
+  ep 1 step 300/1550 loss 0.258
+  epoch 1: mean loss 0.278 | 0.8 min
+  ep 2 step 350/1550 loss 0.234
+  ep 2 step 400/1550 loss 0.239
+  ep 2 step 450/1550 loss 0.229
+  epoch 2: mean loss 0.233 | 1.1 min
+  ep 3 step 500/1550 loss 0.212
+  ep 3 step 550/1550 loss 0.212
+  ep 3 step 600/1550 loss 0.219
+  epoch 3: mean loss 0.215 | 1.4 min
+  ep 4 step 650/1550 loss 0.205
+  ep 4 step 700/1550 loss 0.205
+  ep 4 step 750/1550 loss 0.206
+  epoch 4: mean loss 0.205 | 1.6 min
+  ep 5 step 800/1550 loss 0.194
+  ep 5 step 850/1550 loss 0.196
+  ep 5 step 900/1550 loss 0.194
+  epoch 5: mean loss 0.195 | 1.9 min
+  ep 6 step 950/1550 loss 0.188
+  ep 6 step 1000/1550 loss 0.186
+  ep 6 step 1050/1550 loss 0.186
+  epoch 6: mean loss 0.186 | 2.2 min
+  ep 7 step 1100/1550 loss 0.178
+  ep 7 step 1150/1550 loss 0.172
+  ep 7 step 1200/1550 loss 0.178
+  epoch 7: mean loss 0.176 | 2.5 min
+  ep 8 step 1250/1550 loss 0.163
+  ep 8 step 1300/1550 loss 0.165
+  ep 8 step 1350/1550 loss 0.164
+  epoch 8: mean loss 0.165 | 2.8 min
+  ep 9 step 1400/1550 loss 0.160
+  ep 9 step 1450/1550 loss 0.156
+  ep 9 step 1500/1550 loss 0.159
+  ep 9 step 1550/1550 loss 0.157
+  epoch 9: mean loss 0.157 | 3.1 min
+  generated 16/328
+  generated 32/328
+  generated 48/328
+  generated 64/328
+  generated 80/328
+  generated 96/328
+  generated 112/328
+  generated 128/328
+  generated 144/328
+  generated 160/328
+  generated 176/328
+  generated 192/328
+  generated 208/328
+  generated 224/328
+  generated 240/328
+  generated 256/328
+  generated 272/328
+  generated 288/328
+  generated 304/328
+  generated 320/328
+  generated 328/328
+
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]
+Writing model shards: 100%|##########| 1/1 [00:02<00:00,  2.36s/it]
+Writing model shards: 100%|##########| 1/1 [00:02<00:00,  2.36s/it]
+[vlm scratch] fold 1 done in 3.6 min
+
+[vlm scratch] fold 2: Qwen/Qwen2.5-1.5B-Instruct | train 1248 | test 317 | 1560 steps
+  ep 0 step 50/1560 loss 9.539
+  ep 0 step 100/1560 loss 3.075
+  ep 0 step 150/1560 loss 0.442
+  epoch 0: mean loss 4.198 | 0.5 min
+  ep 1 step 200/1560 loss 0.305
+  ep 1 step 250/1560 loss 0.272
+  ep 1 step 300/1560 loss 0.254
+  epoch 1: mean loss 0.274 | 0.8 min
+  ep 2 step 350/1560 loss 0.242
+  ep 2 step 400/1560 loss 0.234
+  ep 2 step 450/1560 loss 0.234
+  epoch 2: mean loss 0.235 | 1.1 min
+  ep 3 step 500/1560 loss 0.218
+  ep 3 step 550/1560 loss 0.218
+  ep 3 step 600/1560 loss 0.218
+  epoch 3: mean loss 0.219 | 1.4 min
+  ep 4 step 650/1560 loss 0.205
+  ep 4 step 700/1560 loss 0.211
+  ep 4 step 750/1560 loss 0.208
+  epoch 4: mean loss 0.209 | 1.7 min
+  ep 5 step 800/1560 loss 0.207
+  ep 5 step 850/1560 loss 0.200
+  ep 5 step 900/1560 loss 0.197
+  epoch 5: mean loss 0.199 | 2.0 min
+  ep 6 step 950/1560 loss 0.196
+  ep 6 step 1000/1560 loss 0.186
+  ep 6 step 1050/1560 loss 0.190
+  epoch 6: mean loss 0.189 | 2.2 min
+  ep 7 step 1100/1560 loss 0.185
+  ep 7 step 1150/1560 loss 0.184
+  ep 7 step 1200/1560 loss 0.178
+  epoch 7: mean loss 0.180 | 2.5 min
+  ep 8 step 1250/1560 loss 0.173
+  ep 8 step 1300/1560 loss 0.172
+  ep 8 step 1350/1560 loss 0.169
+  ep 8 step 1400/1560 loss 0.172
+  epoch 8: mean loss 0.171 | 2.8 min
+  ep 9 step 1450/1560 loss 0.165
+  ep 9 step 1500/1560 loss 0.167
+  ep 9 step 1550/1560 loss 0.161
+  epoch 9: mean loss 0.165 | 3.1 min
+  generated 16/317
+  generated 32/317
+  generated 48/317
+  generated 64/317
+  generated 80/317
+  generated 96/317
+  generated 112/317
+  generated 128/317
+  generated 144/317
+  generated 160/317
+  generated 176/317
+  generated 192/317
+  generated 208/317
+  generated 224/317
+  generated 240/317
+  generated 256/317
+  generated 272/317
+  generated 288/317
+  generated 304/317
+  generated 317/317
+
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]
+Writing model shards: 100%|##########| 1/1 [00:00<00:00,  3.50it/s]
+Writing model shards: 100%|##########| 1/1 [00:00<00:00,  3.50it/s]
+[vlm scratch] fold 2 done in 3.6 min
+
+[vlm scratch] fold 3: Qwen/Qwen2.5-1.5B-Instruct | train 1263 | test 302 | 1580 steps
+  ep 0 step 50/1580 loss 9.566
+  ep 0 step 100/1580 loss 3.378
+  ep 0 step 150/1580 loss 0.463
+  epoch 0: mean loss 4.260 | 0.5 min
+  ep 1 step 200/1580 loss 0.307
+  ep 1 step 250/1580 loss 0.272
+  ep 1 step 300/1580 loss 0.254
+  epoch 1: mean loss 0.274 | 0.8 min
+  ep 2 step 350/1580 loss 0.243
+  ep 2 step 400/1580 loss 0.237
+  ep 2 step 450/1580 loss 0.230
+  epoch 2: mean loss 0.234 | 1.1 min
+  ep 3 step 500/1580 loss 0.226
+  ep 3 step 550/1580 loss 0.225
+  ep 3 step 600/1580 loss 0.217
+  epoch 3: mean loss 0.221 | 1.4 min
+  ep 4 step 650/1580 loss 0.203
+  ep 4 step 700/1580 loss 0.215
+  ep 4 step 750/1580 loss 0.211
+  epoch 4: mean loss 0.212 | 1.7 min
+  ep 5 step 800/1580 loss 0.213
+  ep 5 step 850/1580 loss 0.201
+  ep 5 step 900/1580 loss 0.201
+  epoch 5: mean loss 0.202 | 2.0 min
+  ep 6 step 950/1580 loss 0.196
+  ep 6 step 1000/1580 loss 0.193
+  ep 6 step 1050/1580 loss 0.190
+  ep 6 step 1100/1580 loss 0.194
+  epoch 6: mean loss 0.193 | 2.3 min
+  ep 7 step 1150/1580 loss 0.183
+  ep 7 step 1200/1580 loss 0.184
+  ep 7 step 1250/1580 loss 0.183
+  epoch 7: mean loss 0.183 | 2.6 min
+  ep 8 step 1300/1580 loss 0.176
+  ep 8 step 1350/1580 loss 0.175
+  ep 8 step 1400/1580 loss 0.173
+  epoch 8: mean loss 0.174 | 2.8 min
+  ep 9 step 1450/1580 loss 0.164
+  ep 9 step 1500/1580 loss 0.168
+  ep 9 step 1550/1580 loss 0.164
+  epoch 9: mean loss 0.165 | 3.1 min
+  generated 16/302
+  generated 32/302
+  generated 48/302
+  generated 64/302
+  generated 80/302
+  generated 96/302
+  generated 112/302
+  generated 128/302
+  generated 144/302
+  generated 160/302
+  generated 176/302
+  generated 192/302
+  generated 208/302
+  generated 224/302
+  generated 240/302
+  generated 256/302
+  generated 272/302
+  generated 288/302
+  generated 302/302
+
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]
+Writing model shards: 100%|##########| 1/1 [00:00<00:00,  4.01it/s]
+Writing model shards: 100%|##########| 1/1 [00:00<00:00,  4.01it/s]
+[vlm scratch] fold 3 done in 3.6 min
+
+[vlm scratch] fold 4: Qwen/Qwen2.5-1.5B-Instruct | train 1261 | test 304 | 1580 steps
+  ep 0 step 50/1580 loss 9.512
+  ep 0 step 100/1580 loss 3.327
+  ep 0 step 150/1580 loss 0.444
+  epoch 0: mean loss 4.220 | 0.5 min
+  ep 1 step 200/1580 loss 0.292
+  ep 1 step 250/1580 loss 0.268
+  ep 1 step 300/1580 loss 0.253
+  epoch 1: mean loss 0.268 | 0.8 min
+  ep 2 step 350/1580 loss 0.236
+  ep 2 step 400/1580 loss 0.235
+  ep 2 step 450/1580 loss 0.229
+  epoch 2: mean loss 0.232 | 1.1 min
+  ep 3 step 500/1580 loss 0.216
+  ep 3 step 550/1580 loss 0.216
+  ep 3 step 600/1580 loss 0.211
+  epoch 3: mean loss 0.215 | 1.4 min
+  ep 4 step 650/1580 loss 0.203
+  ep 4 step 700/1580 loss 0.202
+  ep 4 step 750/1580 loss 0.205
+  epoch 4: mean loss 0.204 | 1.6 min
+  ep 5 step 800/1580 loss 0.194
+  ep 5 step 850/1580 loss 0.192
+  ep 5 step 900/1580 loss 0.192
+  epoch 5: mean loss 0.193 | 1.9 min
+  ep 6 step 950/1580 loss 0.181
+  ep 6 step 1000/1580 loss 0.181
+  ep 6 step 1050/1580 loss 0.184
+  ep 6 step 1100/1580 loss 0.183
+  epoch 6: mean loss 0.183 | 2.2 min
+  ep 7 step 1150/1580 loss 0.173
+  ep 7 step 1200/1580 loss 0.173
+  ep 7 step 1250/1580 loss 0.175
+  epoch 7: mean loss 0.173 | 2.5 min
+  ep 8 step 1300/1580 loss 0.164
+  ep 8 step 1350/1580 loss 0.163
+  ep 8 step 1400/1580 loss 0.164
+  epoch 8: mean loss 0.163 | 2.8 min
+  ep 9 step 1450/1580 loss 0.156
+  ep 9 step 1500/1580 loss 0.157
+  ep 9 step 1550/1580 loss 0.157
+  epoch 9: mean loss 0.156 | 3.1 min
+  generated 16/304
+  generated 32/304
+  generated 48/304
+  generated 64/304
+  generated 80/304
+  generated 96/304
+  generated 112/304
+  generated 128/304
+  generated 144/304
+  generated 160/304
+  generated 176/304
+  generated 192/304
+  generated 208/304
+  generated 224/304
+  generated 240/304
+  generated 256/304
+  generated 272/304
+  generated 288/304
+  generated 304/304
+
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]
+Writing model shards: 100%|##########| 1/1 [00:00<00:00,  3.37it/s]
+Writing model shards: 100%|##########| 1/1 [00:00<00:00,  3.37it/s]
+[vlm scratch] fold 4 done in 3.5 min

@@ -1,0 +1,32 @@
+variants found: ['Full model', 'Full model, seed 1', 'Full model, seed 2', 'No visual tokens', 'No clinical sentence', 'Pooled token only', 'Ungrounded ImageNet features', 'Qwen2.5-0.5B', 'No language pretraining', 'Qwen2.5-3B', 'Zero-shot Qwen2.5-VL-3B']
+                         variant  acc_side  terr_f1  halluc  all_correct  vol_rho  radc_rho  wellformed    auc
+0                     Full model     0.817    0.719   0.231        0.324    0.881     0.502       1.000  0.773
+1             Full model, seed 1     0.808    0.723   0.239        0.342    0.893     0.459       1.000  0.788
+2             Full model, seed 2     0.809    0.717   0.236        0.327    0.898     0.463       1.000  0.797
+3               No visual tokens     0.425    0.515   0.363        0.029    0.343    -0.051       1.000  0.727
+4           No clinical sentence     0.814    0.728   0.224        0.323    0.890     0.473       1.000  0.770
+5              Pooled token only     0.818    0.693   0.255        0.303    0.880     0.504       0.999  0.788
+6   Ungrounded ImageNet features     0.428    0.511   0.376        0.026    0.375     0.029       1.000  0.721
+7                   Qwen2.5-0.5B     0.811    0.725   0.231        0.340    0.897     0.491       1.000  0.770
+8        No language pretraining     0.804    0.746   0.228        0.334    0.872     0.493       0.999  0.756
+9                     Qwen2.5-3B     0.801    0.646   0.284        0.270    0.875     0.313       1.000  0.780
+10       Zero-shot Qwen2.5-VL-3B     0.367    0.507   0.575        0.019    0.028     0.007       1.000  0.675
+joint classifier:           metric  value  d_ref   d_lo   d_hi
+17      acc_side  0.802  0.016 -0.001  0.033
+18   acc_vol_bin  0.713 -0.002 -0.024  0.020
+19  acc_multiple  0.677  0.017 -0.003  0.036
+20   acc_chronic  0.890  0.005 -0.009  0.018
+21     acc_restr  0.553  0.054  0.030  0.076
+22       terr_f1  0.735 -0.016 -0.030 -0.002
+23    terr_exact  0.524 -0.025 -0.045 -0.001
+24   all_correct  0.342 -0.018 -0.042  0.005
+25        halluc  0.231 -0.000 -0.016  0.015
+26      omission  0.296  0.029  0.014  0.044
+27        f1_ACA  0.642 -0.044 -0.089  0.001
+28        f1_MCA  0.865 -0.004 -0.019  0.010
+29       f1_DEEP  0.670 -0.022 -0.061  0.015
+30        f1_PCA  0.686 -0.113 -0.159 -0.061
+31       f1_THAL  0.601 -0.192 -0.270 -0.104
+32         f1_BS  0.267  0.190  0.105  0.277
+33      f1_CEREB  0.648  0.017 -0.043  0.069
+written results/paper
