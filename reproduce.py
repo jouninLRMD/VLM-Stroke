@@ -49,6 +49,12 @@ ABLATIONS = [
     ("llm05b",  ["--tag", "llm05b", "--llm", "Qwen/Qwen2.5-0.5B-Instruct"]),
     ("llm3b",   ["--tag", "llm3b", "--llm", "Qwen/Qwen2.5-3B-Instruct", "--batch", "4"]),
     ("scratch", ["--tag", "scratch", "--scratch", "--lr", "5e-4", "--epochs", "10"]),
+    # added after expert review: prompt without prior stroke, laterality-preserving ImageNet features,
+    # and the 3B model with the same effective batch as the others (4 x 2 accumulation steps)
+    ("noprior", ["--tag", "noprior", "--no-prior"]),
+    (None,      ["--dump-imnet-sp"]),
+    ("imnetsp", ["--tag", "imnetsp", "--feats", "imnet_sp"]),
+    ("llm3bacc", ["--tag", "llm3bacc", "--llm", "Qwen/Qwen2.5-3B-Instruct", "--batch", "4", "--accum", "2"]),
 ]
 
 
@@ -127,7 +133,7 @@ def main():
                     if done(pat):
                         print(f"  {tag}: outputs exist, skipped")
                         continue
-                run([py, SRC / "ablations.py"] + args, log=L / f"ablation_{tag or 'imnet_dump'}.txt", dry=a.dry_run)
+                run([py, SRC / "ablations.py"] + args, log=L / f"ablation_{tag or args[0].lstrip('-').replace('-', '_')}.txt", dry=a.dry_run)
         elif st == "zeroshot":
             if done("abl/gen_zeroshot_*_fold?.csv") and not a.force:
                 print("  zero-shot outputs exist, skipped")

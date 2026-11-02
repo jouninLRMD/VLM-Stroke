@@ -37,7 +37,10 @@ VARIANTS = [("Full model", main), ("Full model, seed 1", load("gen_seed1_fold{k}
             ("Pooled token only", load("gen_pooled_fold{k}.csv")), ("Ungrounded ImageNet features", load("gen_imnet_fold{k}.csv")),
             ("Qwen2.5-0.5B", load("gen_llm05b_fold{k}.csv")),
             ("No language pretraining", load("gen_scratch_fold{k}.csv")), ("Qwen2.5-3B", load("gen_llm3b_fold{k}.csv")),
-            ("Zero-shot Qwen2.5-VL-3B", load("gen_zeroshot_qwen25-vl-3b-instruct_fold{k}.csv"))]
+            ("Zero-shot Qwen2.5-VL-3B", load("gen_zeroshot_qwen25-vl-3b-instruct_fold{k}.csv")),
+            ("No prior stroke in prompt", load("gen_noprior_fold{k}.csv")),
+            ("ImageNet features, left-right tokens", load("gen_imnetsp_fold{k}.csv")),
+            ("Qwen2.5-3B, effective batch 8", load("gen_llm3bacc_fold{k}.csv"))]
 VARIANTS = [(n, g) for n, g in VARIANTS if g is not None]
 print("variants found:", [n for n, _ in VARIANTS])
 ids = main[main.has_report].index
@@ -247,7 +250,9 @@ tex_num = lambda s: "$-$" + s[1:] if s.startswith("-") else s          # typeset
 put = lambda a, b, v, f="{:.3f}": mac.append(f"\\expandafter\\def\\csname nbb@{a}@{b}\\endcsname{{{tex_num(f.format(v))}}}") if v == v else None
 short = {"Full model": "full", "Full model, seed 1": "seedone", "Full model, seed 2": "seedtwo", "No visual tokens": "noimg",
          "No clinical sentence": "noclin", "Pooled token only": "pooled", "Ungrounded ImageNet features": "imnet",
-         "Qwen2.5-0.5B": "small", "No language pretraining": "scratch", "Qwen2.5-3B": "large", "Zero-shot Qwen2.5-VL-3B": "zeroshot"}
+         "Qwen2.5-0.5B": "small", "No language pretraining": "scratch", "Qwen2.5-3B": "large", "Zero-shot Qwen2.5-VL-3B": "zeroshot",
+         "No prior stroke in prompt": "noprior", "ImageNet features, left-right tokens": "imnetsp",
+         "Qwen2.5-3B, effective batch 8": "largeacc"}
 for _, r in AB.iterrows():
     s = short[r.variant]
     for c, v in r.items():

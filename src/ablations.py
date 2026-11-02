@@ -13,6 +13,11 @@ One model per fold is trained (or, with --eval-only, the adapters saved by vlm.p
   --pooled-only           only the pooled visual token (1 instead of 18)
   --feats imnet           visual tokens from a frozen ImageNet ResNet-18 that never saw the findings (no grounding);
                           create them first with --dump-imnet
+  --feats imnet_sp        as imnet, but each slice gives three tokens (left, middle and right thirds of the feature
+                          map), so laterality is kept; create them first with --dump-imnet-sp
+  --no-prior              the prior-stroke item is removed from the clinical sentence (tests whether the chronic
+                          infarct statement is read from the image or copied from the prompt)
+  --accum n               gradient accumulation over n batches (e.g. --batch 4 --accum 2 for an effective batch of 8)
   --llm <hf id>           a different language model size (e.g. Qwen/Qwen2.5-0.5B-Instruct, Qwen/Qwen2.5-3B-Instruct)
   --seed s                training seed (repeats of the full model)
   --scratch               no language pretraining: a small decoder (4 layers, width 256, same tokenizer) trained from
@@ -23,7 +28,7 @@ Examples (reproduce.py runs all of them):
   python src/ablations.py --tag noimage --no-image
   python src/ablations.py --tag full --eval-only --shuffle
 """
-import argparse, json, math, time
+import argparse, json, math, re, time
 try:
     from PIL import Image  # noqa: F401  (on Windows, load Pillow before torch)
 except Exception:
@@ -56,6 +61,32 @@ def dump_imnet():
     out.flush(); print("ImageNet features:", out.shape)
 
 
+def dump_imnet_spatial():
+    """Frozen ImageNet ResNet-18, keeping laterality: for each of the 17 slices the layer-4 feature map is averaged
+    separately over the left, middle and right thirds of the left-right axis (3 tokens per slice), plus a global token."""
+    import torchvision
+    dev = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    m = torchvision.models.resnet18(weights=torchvision.models.ResNet18_Weights.IMAGENET1K_V1)
+    body = nn.Sequential(*list(m.children())[:-2])                 # up to layer4, no global pooling
+    to3 = nn.Conv2d(2, 3, 1)
+    with torch.no_grad():
+        to3.weight.copy_(torch.tensor([[1., 0.], [0., 1.], [.5, .5]]).view(3, 2, 1, 1)); to3.bias.zero_()
+    body, to3 = body.to(dev).eval(), to3.to(dev)
+    X = np.load(WORK / "cache" / "X.npy", mmap_mode="r"); N, nz = X.shape[0], X.shape[-1]
+    z = sorted(set(np.linspace(0.17 * nz, 0.85 * nz, 17).astype(int).tolist())); S = len(z)
+    out = np.lib.format.open_memmap(WORK / "vlm" / "feats_imnet_sp.npy", mode="w+", dtype=np.float16, shape=(N, 3 * S + 1, 512))
+    with torch.no_grad():
+        for i in range(0, N, 8):
+            x = torch.from_numpy(np.asarray(X[i:i + 8], dtype=np.float32)).to(dev)[:, :, :, :, z]
+            B, C, D, H, _ = x.shape                                 # D = left-right axis (RAS x), H = posterior-anterior
+            f = body(to3(x.permute(0, 4, 1, 2, 3).reshape(B * S, C, D, H)))       # (B*S, 512, d, h)
+            thirds = torch.tensor_split(f, 3, dim=2)
+            t = torch.stack([th.mean((2, 3)) for th in thirds], 1).view(B, S * 3, 512)
+            g = f.mean((2, 3)).view(B, S, 512).mean(1, keepdim=True)
+            out[i:i + B] = torch.cat([t, g], 1).float().cpu().numpy().astype(np.float16)
+    out.flush(); print("ImageNet spatial features:", out.shape)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--tag", default="full")
@@ -68,7 +99,9 @@ def main():
     ap.add_argument("--gen-batch", type=int, default=16)
     ap.add_argument("--no-image", action="store_true"); ap.add_argument("--no-clin", action="store_true")
     ap.add_argument("--pooled-only", action="store_true")
-    ap.add_argument("--feats", choices=["grounded", "imnet"], default="grounded")
+    ap.add_argument("--feats", choices=["grounded", "imnet", "imnet_sp"], default="grounded")
+    ap.add_argument("--no-prior", action="store_true"); ap.add_argument("--accum", type=int, default=1)
+    ap.add_argument("--dump-imnet-sp", action="store_true")
     ap.add_argument("--eval-only", action="store_true", help="reload the adapters of vlm.py (tag full) or of an earlier run")
     ap.add_argument("--shuffle", action="store_true"); ap.add_argument("--samples", type=int, default=0)
     ap.add_argument("--temperature", type=float, default=0.7)
@@ -79,6 +112,8 @@ def main():
     a = ap.parse_args()
     if a.dump_imnet:
         dump_imnet(); return
+    if a.dump_imnet_sp:
+        dump_imnet_spatial(); return
     from transformers import AutoTokenizer, AutoModelForCausalLM
     from peft import LoraConfig, get_peft_model, PeftModel
     dev = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -121,7 +156,7 @@ def main():
         if a.eval_only:
             src = "vlm_proj" if a.tag == "full" else f"vlm_{a.tag}_proj"
             model.proj.load_state_dict(torch.load(WORK / "models" / f"{src}_fold{k}.pt", map_location=dev))
-        fpath = WORK / "vlm" / ("feats_imnet.npy" if a.feats == "imnet" else f"feats_fold{k}.npy")
+        fpath = WORK / "vlm" / ({"imnet": "feats_imnet.npy", "imnet_sp": "feats_imnet_sp.npy"}.get(a.feats, f"feats_fold{k}.npy"))
         feats = np.load(fpath, mmap_mode="r")
 
         def vis_of(row):
@@ -131,6 +166,8 @@ def main():
 
         def seq(it, row, instr=None, tail=()):
             clin = clin_off if a.no_clin else it["clin"]
+            if a.no_prior:
+                clin = re.sub(r", prior stroke (yes|no)", "", clin)
             v = vis_of(row)[:0] if a.no_image else vis_of(row)
             return model.seq(v, clin, instr or it["instr"], tail)
 
@@ -143,12 +180,13 @@ def main():
         if not a.eval_only:
             opt = torch.optim.AdamW([{"params": [p for p in llm.parameters() if p.requires_grad], "lr": a.lr},
                                      {"params": model.proj.parameters(), "lr": a.proj_lr}], weight_decay=0.0)
-            steps = max(1, a.epochs * math.ceil(len(tr) / a.batch))
+            steps = max(1, a.epochs * math.ceil(len(tr) / (a.batch * a.accum)))
             sch = torch.optim.lr_scheduler.LambdaLR(opt, lambda s: min(1.0, (s + 1) / (0.05 * steps)) * max(0.0, 1 - s / steps))
             print(f"\n[vlm {a.tag}] fold {k}: {a.llm} | train {len(tr)} | test {len(te)} | {steps} steps", flush=True)
-            step = 0
+            step = 0; micro = 0
             for ep in range(a.epochs):
                 model.train(); order = rng.permutation(len(tr)); tl = []
+                n_micro = math.ceil(len(order) / a.batch)
                 for s in range(0, len(order), a.batch):
                     seqs, labs = [], []
                     for j in order[s:s + a.batch]:
@@ -159,9 +197,11 @@ def main():
                     E, M, Y = pad_batch(seqs, labs)
                     with torch.autocast("cuda", dtype=torch.bfloat16, enabled=amp):
                         loss = llm(inputs_embeds=E, attention_mask=M, labels=Y).loss
-                    opt.zero_grad(set_to_none=True); loss.backward()
+                    (loss / a.accum).backward(); tl.append(loss.item()); micro += 1
+                    if micro % a.accum and (s // a.batch) + 1 < n_micro:
+                        continue                                     # keep accumulating gradients
                     nn.utils.clip_grad_norm_([p for g in opt.param_groups for p in g["params"]], 1.0)
-                    opt.step(); sch.step(); tl.append(loss.item()); step += 1
+                    opt.step(); sch.step(); opt.zero_grad(set_to_none=True); step += 1; micro = 0
                     if step % 50 == 0:
                         print(f"  ep {ep} step {step}/{steps} loss {np.mean(tl[-50:]):.3f}", flush=True)
                 print(f"  epoch {ep}: mean loss {np.mean(tl):.3f} | {(time.time()-t0)/60:.1f} min", flush=True)
