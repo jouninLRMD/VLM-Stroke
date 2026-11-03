@@ -35,7 +35,7 @@ plt.rcParams.update({"font.family": ["Arial", "Liberation Sans", "DejaVu Sans"],
                      "xtick.major.width": 0.6, "ytick.major.width": 0.6, "xtick.major.size": 2.5, "ytick.major.size": 2.5})
 OUT.mkdir(parents=True, exist_ok=True)
 TERR = ["ACA", "MCA", "DEEP", "PCA", "THAL", "BS", "CEREB"]
-TNAME = {"ACA": "ACA", "MCA": "MCA cortical", "DEEP": "Lenticulostriate", "PCA": "PCA", "THAL": "Thalamic",
+TNAME = {"ACA": "ACA", "MCA": "MCA cortical", "DEEP": "Deep perforator", "PCA": "PCA", "THAL": "Thalamic",
          "BS": "Brainstem", "CEREB": "Cerebellar"}
 KEY = {"ACA": "anterior cerebral", "MCA": "middle cerebral", "DEEP": "lenticulostriate", "PCA": "posterior cerebral",
        "THAL": "thalamic", "BS": "brainstem", "CEREB": "cerebellar"}
@@ -121,11 +121,23 @@ Qd["multiple"] = (D.p_mult > 0.5).astype(int); Qd["chronic"] = (D.p_chron > 0.5)
 Qd["restr"] = D[[f"p_restr_{i}" for i in range(3)]].values.argmax(1)
 for k in TERR:
     Qd[f"terr_{k}"] = (D[f"p_terr_{k}"] > 0.5).astype(int)
-M = pd.DataFrame(index=Tt.index)
-for f in FIELDS:
-    M[f] = Tt[f].mode()[0]
-for k in TERR:
-    M[f"terr_{k}"] = int(Tt[f"terr_{k}"].mean() > 0.5)
+# every reference names at least one territory, so the classifier follows the same rule: when no territory passes 0.5,
+# the most probable one is named (without this, 26% of scans get an empty set that can never be correct)
+_pt = D[[f"p_terr_{k}" for k in TERR]].values
+_empty = Qd[[f"terr_{k}" for k in TERR]].sum(1).values == 0
+for j, k in enumerate(TERR):
+    Qd.loc[_empty, f"terr_{k}"] = (_pt[_empty].argmax(1) == j).astype(int)
+# majority class computed within the training folds of each held-out fold
+M = pd.DataFrame(index=Tt.index, columns=FIELDS + [f"terr_{k}" for k in TERR], dtype=object)
+_fold = R.loc[Tt.index, "vlm_fold"]
+for k in range(5):
+    tr = R[(R.vlm_fold != k) & R.index.isin(Tt.index)]; te = _fold.index[_fold == k]
+    for f in FIELDS:
+        M.loc[te, f] = tr[f].mode()[0]
+    for t in TERR:
+        M.loc[te, f"terr_{t}"] = int(tr[f"terr_{t}"].mean() > 0.5)
+for c in M.columns:
+    M[c] = M[c].astype(int) if c != "side" else M[c].astype(str)
 
 # retrieval baseline: nearest training scan (cosine, pooled encoder features of the same fold's encoder)
 SRC = {"VLM": P, "Direct": Qd, "Majority": M}
@@ -220,7 +232,6 @@ for c in ["age", "nihss", "priorstroke", "bmi"]:
     X[c] = L[c]
 X["bmi_miss"] = X.bmi.isna().astype(float)
 X["gen_logvol"] = np.log1p(Pall.vol_ml.reindex(L.index).fillna(0))
-X["gen_has"] = Pall.vol_ml.reindex(L.index).notna().astype(float)
 X["gen_restr"] = Pall.restr.reindex(L.index).fillna(0); X["gen_chronic"] = Pall.chronic.reindex(L.index).fillna(0)
 X["gen_mult"] = Pall.multiple.reindex(L.index).fillna(0)
 for k in TERR:
@@ -244,6 +255,26 @@ for nm, stem in [("2.5D MIL + anchor", "slice25d"), ("CALM-Stroke", "calm25d")]:
     ds = [d for d in ds if set(ids) <= set(d.index)]
     if ds:
         OC[nm] = np.mean([d.loc[ids, "p_gt2"].values for d in ds], 0)
+# the outcome token of the two extra training seeds (ablations.py --seed): their mean is reported next to the main seed
+_sd = [G.loc[ids, "p_poor"].values]
+for _s in (1, 2):
+    _fs = [V / "abl" / f"gen_seed{_s}_fold{k}.csv" for k in range(5)]
+    if all(f.exists() for f in _fs):
+        _sd.append(pd.concat([pd.read_csv(f) for f in _fs]).set_index("participant_id").loc[ids, "p_poor"].values)
+if len(_sd) > 1:
+    OC["VLM, mean of seeds"] = np.mean(_sd, 0)
+# patients without an expert mask get no report (and an outcome-only instruction), so mask presence is known to the
+# report-based models; the fair clinical reference therefore also knows it
+Xm = X[["age", "nihss", "priorstroke", "bmi", "bmi_miss"]].copy(); Xm["has_mask"] = L.has_mask.astype(float).values
+pm = np.zeros(len(L))
+for k in range(5):
+    tr, te = (L.fold != k).values, (L.fold == k).values
+    Xtr, Xte = Xm[tr].copy(), Xm[te].copy(); med = Xtr.bmi.median(); Xtr["bmi"] = Xtr.bmi.fillna(med); Xte["bmi"] = Xte.bmi.fillna(med)
+    sc = StandardScaler().fit(Xtr); m = LogisticRegression(C=0.3, max_iter=3000).fit(sc.transform(Xtr), y[tr])
+    pm[te] = m.predict_proba(sc.transform(Xte))[:, 1]
+OC["Clinical + mask present"] = pm
+SKIP = ("Clinical + expert volume (R1)", "VLM, mean of seeds", "Clinical + mask present")
+pd.DataFrame(OC, index=ids).assign(y_poor=y).to_csv(OUT / "outcome_predictions.csv")
 rows = []
 ref = OC.get("Clinical (R0)")
 for nm, p in OC.items():
@@ -302,7 +333,7 @@ oc_col = {"VLM (outcome token after report)": COL["VLM"], "Clinical + generated 
           "Clinical + expert lesion (R1b)": "#3c3c3c", "2.5D MIL + anchor": "#1f78b4", "CALM-Stroke": "#7570b3",
           "Clinical + expert volume (R1)": "#bdbdbd"}
 for nm, p in OC.items():
-    if nm == "Clinical + expert volume (R1)":
+    if nm in SKIP:
         continue
     fpr, tpr, _ = roc_curve(y, p); ax[0].plot(fpr, tpr, lw=1.5 if nm.startswith("VLM") else 1.0, color=oc_col[nm], label=f"{nm}  {auc(y, p):.3f}")
 ax[0].plot([0, 1], [0, 1], ls=":", color="#777777", lw=0.7); ax[0].set(xlabel="1 − specificity", ylabel="Sensitivity")
@@ -322,7 +353,7 @@ save(fig, "figB5_outcome_strata")
 # single-column versions used in the manuscript: outcome ROC, and accuracy by lesion size and field strength
 fig, ax0 = plt.subplots(figsize=(3.45, 2.9))
 for nm, p in OC.items():
-    if nm == "Clinical + expert volume (R1)":
+    if nm in SKIP:
         continue
     fpr, tpr, _ = roc_curve(y, p); ax0.plot(fpr, tpr, lw=1.5 if nm.startswith("VLM") else 1.0, color=oc_col[nm], label=f"{nm}  {auc(y, p):.3f}")
 ax0.plot([0, 1], [0, 1], ls=":", color="#777777", lw=0.7); ax0.set(xlabel="1 − specificity", ylabel="Sensitivity", xlim=(0, 1), ylim=(0, 1.01))
@@ -356,7 +387,8 @@ put("num", "wellformed", 100 * P.wellformed.mean(), "{:.1f}"); put("num", "nrep"
 okb = ok & (Tt.vol_ml > 0)
 put("num", "volwithin2x", 100 * float((np.abs(ratio[okb.values[ok.values]]) <= 1).mean()), "{:.0f}")
 okey = {"VLM (outcome token after report)": "vlm", "Clinical + generated report findings": "facts", "Clinical (R0)": "R0",
-        "Clinical + expert volume (R1)": "R1", "Clinical + expert lesion (R1b)": "R1b", "2.5D MIL + anchor": "mil", "CALM-Stroke": "calm"}
+        "Clinical + expert volume (R1)": "R1", "Clinical + expert lesion (R1b)": "R1b", "2.5D MIL + anchor": "mil", "CALM-Stroke": "calm",
+        "VLM, mean of seeds": "vlmseed", "Clinical + mask present": "R0m"}
 for _, r in OT.iterrows():
     k = okey[r.model]
     for c in ["auc", "lo", "hi", "cal_slope", "cal_int", "d_r0", "d_lo", "d_hi"]:

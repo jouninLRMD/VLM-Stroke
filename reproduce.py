@@ -18,12 +18,14 @@ Stages, in order:
   zeroshot    zero-shot general vision-language model (GPU)
   analysis    main evaluation, figures and number macros (results/paper)
   ablation_eval  evaluation of the ablations, grounding, uncertainty, tuned and joint classifiers (results/paper)
+  review      equivalence tests, field-by-field image swap, reference audit, circulation and slice-visibility strata,
+              encoder confidence and outcome subgroups (results/paper/numbers_b3.tex)
 
 Usage (from the repository root):
   python reproduce.py                          # everything
   python reproduce.py --dry-run                # print the commands only
   python reproduce.py --from vlm               # start at a stage
-  python reproduce.py --only analysis ablation_eval   # recompute the paper's numbers from the saved predictions
+  python reproduce.py --only analysis ablation_eval review   # recompute the paper's numbers from the saved predictions
 Finished runs of the language models are skipped; use --force to run them again.
 """
 import argparse, os, subprocess, sys, time
@@ -32,8 +34,10 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent
 SRC, SCRIPTS = REPO / "src", REPO / "scripts"
 RES = Path(os.environ.get("CALM_RESULTS", str(REPO / "results")))
+sys.path.insert(0, str(SRC))
+from common import WORK                                    # same cache location as the scripts
 STAGES = ["download", "atlas", "preprocess", "cohort", "features", "baselines", "cache", "reports", "encoder", "pool",
-          "vlm", "evaluate", "ablations", "zeroshot", "analysis", "ablation_eval"]
+          "vlm", "evaluate", "ablations", "zeroshot", "analysis", "ablation_eval", "review"]
 
 # (tag, arguments of src/ablations.py), in the order used for the paper
 ABLATIONS = [
@@ -143,6 +147,10 @@ def main():
             run([py, SRC / "analysis.py"], log=L / "analysis.txt", dry=a.dry_run)
         elif st == "ablation_eval":
             run([py, SRC / "ablation_eval.py"], log=L / "ablation_eval.txt", dry=a.dry_run)
+        elif st == "review":
+            if (WORK / "cache" / "M.npy").exists():       # lesion voxels on the sampled slice levels (needs the cache)
+                run([py, SRC / "review_analyses.py", "--visibility"], log=L / "visibility.txt", dry=a.dry_run)
+            run([py, SRC / "review_analyses.py"], log=L / "review.txt", dry=a.dry_run)
     print("\nFinished. Manuscript outputs: results/paper")
 
 

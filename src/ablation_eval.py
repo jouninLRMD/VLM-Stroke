@@ -93,6 +93,18 @@ for col, tcol, kind in [("multiple", "p_mult", "acc"), ("chronic", "p_chron", "a
         th = grid[int(np.argmax([score(g) for g in grid]))]
         pred[te] = (D[tcol].values[te] > th).astype(int)
     Qt[col] = pred
+_pt = D[[f"p_terr_{t}" for t in TERR]].values
+
+
+def at_least_one(Q):
+    """Name the most probable territory when no territory passes its threshold (the rule used for the references)."""
+    e = Q[[f"terr_{t}" for t in TERR]].sum(1).values == 0
+    for j, t in enumerate(TERR):
+        Q.loc[e, f"terr_{t}"] = (_pt[e].argmax(1) == j).astype(int)
+    return Q
+
+
+Qt = at_least_one(Qt)
 Qtun = per_patient(Qt, T)
 DT = boot({"Full model": Qs["Full model"], "Direct, tuned thresholds": Qtun}, B=500, ref="Full model")
 DT.round(4).to_csv(OUT / "direct_tuned.csv", index=False)
@@ -101,6 +113,7 @@ Qdef["side"], Qdef["vol_bin"], Qdef["restr"] = Qt["side"], Qt["vol_bin"], Qt["re
 Qdef["multiple"] = (D.p_mult > 0.5).astype(int).values; Qdef["chronic"] = (D.p_chron > 0.5).astype(int).values
 for t in TERR:
     Qdef[f"terr_{t}"] = (D[f"p_terr_{t}"] > 0.5).astype(int).values
+Qdef = at_least_one(Qdef)
 MC = {"default": mcnemar(Qs["Full model"]["all"], per_patient(Qdef, T)["all"]), "tuned": mcnemar(Qs["Full model"]["all"], Qtun["all"])}
 
 # ------------------------------------------------------------------------------------------- joint (set-level) classifier
@@ -259,12 +272,12 @@ for _, r in AB.iterrows():
         if c != "variant" and isinstance(v, (int, float, np.floating)) and pd.notna(v):
             put(s, c.replace("_", ""), float(v), "{:.0f}" if c.startswith("mcn_") and not c.endswith("p") else "{:.3f}")
 sub = DT[DT.source == "Direct, tuned thresholds"].set_index("metric")
-for c in ["acc_side", "terr_f1", "terr_exact", "halluc", "omission", "all_correct"]:
+for c in ["acc_side", "acc_vol_bin", "acc_multiple", "acc_chronic", "acc_restr", "terr_f1", "terr_exact", "halluc", "omission", "all_correct"]:
     put("tuned", c.replace("_", ""), sub.loc[c, "value"]); put("tuned", c.replace("_", "") + "d", sub.loc[c, "d_ref"])
     put("tuned", c.replace("_", "") + "dlo", sub.loc[c, "d_lo"]); put("tuned", c.replace("_", "") + "dhi", sub.loc[c, "d_hi"])
 if JT is not None:
     sub = JT[JT.source == "Joint set classifier"].set_index("metric")
-    for c in ["acc_side", "terr_f1", "halluc", "omission", "terr_exact", "all_correct"]:
+    for c in ["acc_side", "acc_vol_bin", "acc_multiple", "acc_chronic", "acc_restr", "terr_f1", "halluc", "omission", "terr_exact", "all_correct"]:
         if c in sub.index:
             put("joint", c.replace("_", ""), sub.loc[c, "value"]); put("joint", c.replace("_", "") + "d", sub.loc[c, "d_ref"])
             put("joint", c.replace("_", "") + "dlo", sub.loc[c, "d_lo"]); put("joint", c.replace("_", "") + "dhi", sub.loc[c, "d_hi"])

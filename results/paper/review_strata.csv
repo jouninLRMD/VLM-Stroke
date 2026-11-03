@@ -1,0 +1,57 @@
+kind,group,source,n,all_correct,lo,hi,acc_side,terr_f1,halluc
+circ,Anterior only,VLM,943,0.421,0.387,0.4528,0.8834,0.8054,0.1773
+circ,Anterior only,Direct,943,0.3924,0.3606,0.4231,0.8632,0.7895,0.1608
+circ,Anterior only,Joint set classifier,943,0.4517,0.4168,0.4836,0.8717,0.8088,0.1819
+circ,Anterior only,VLM minus Direct,943,0.0286,-0.0043,0.0605,,,
+circ,Posterior only,VLM,297,0.2256,0.1785,0.2727,0.6397,0.5303,0.4713
+circ,Posterior only,Direct,297,0.1616,0.1212,0.2054,0.6364,0.4273,0.561
+circ,Posterior only,Joint set classifier,297,0.1717,0.1312,0.2155,0.6162,0.5387,0.4841
+circ,Posterior only,VLM minus Direct,297,0.064,0.0202,0.1145,,,
+circ,Both circulations,VLM,211,0.0284,0.0095,0.0521,0.7725,0.608,0.1741
+circ,Both circulations,Direct,211,0.0332,0.0095,0.0569,0.763,0.5951,0.1481
+circ,Both circulations,Joint set classifier,211,0.0853,0.0474,0.1232,0.7488,0.677,0.1502
+circ,Both circulations,VLM minus Direct,211,-0.0047,-0.0379,0.0284,,,
+vis,Not on any sampled level,VLM,7,0.0,0.0,0.0,0.1429,0.2667,0.75
+vis,Not on any sampled level,Direct,7,0.0,0.0,0.0,0.2857,0.2857,0.7143
+vis,Not on any sampled level,Joint set classifier,7,0.0,0.0,0.0,0.1429,0.2857,0.7143
+vis,Not on any sampled level,VLM minus Direct,7,0.0,0.0,0.0,,,
+vis,Under 5% of voxels sampled,VLM,5,0.0,0.0,0.0,0.4,0.0,1.0
+vis,Under 5% of voxels sampled,Direct,5,0.2,0.0,0.6,0.6,0.2,0.8
+vis,Under 5% of voxels sampled,Joint set classifier,5,0.0,0.0,0.0,0.4,0.0,1.0
+vis,Under 5% of voxels sampled,VLM minus Direct,5,-0.2,-0.6,0.0,,,
+vis,5% or more sampled,VLM,1439,0.3266,0.3023,0.351,0.8221,0.7222,0.2271
+vis,5% or more sampled,Direct,1439,0.2946,0.2717,0.3183,0.8054,0.6905,0.2306
+vis,5% or more sampled,Joint set classifier,1439,0.344,0.319,0.369,0.8061,0.7379,0.2305
+vis,5% or more sampled,VLM minus Direct,1439,0.032,0.0076,0.057,,,
+vol,< 2 mL,VLM,399,0.2281,0.1879,0.2682,0.6591,0.4979,0.4816
+vol,< 2 mL,Direct,399,0.1128,0.0852,0.1454,0.6266,0.4404,0.5255
+vol,< 2 mL,Joint set classifier,399,0.183,0.1454,0.2206,0.6316,0.5081,0.4867
+vol,< 2 mL,VLM minus Direct,399,0.1153,0.0752,0.1554,,,
+vol,2 to 20 mL,VLM,530,0.3075,0.266,0.3453,0.8528,0.7539,0.1832
+vol,2 to 20 mL,Direct,530,0.3226,0.283,0.3623,0.8358,0.7371,0.1734
+vol,2 to 20 mL,Joint set classifier,530,0.3679,0.3283,0.4113,0.8415,0.7678,0.1712
+vol,2 to 20 mL,VLM minus Direct,530,-0.0151,-0.0566,0.0245,,,
+vol,20 to 70 mL,VLM,326,0.365,0.3129,0.4202,0.8681,0.8261,0.1284
+vol,20 to 70 mL,Direct,326,0.3896,0.3374,0.4448,0.865,0.8013,0.1229
+vol,20 to 70 mL,Joint set classifier,326,0.3988,0.3436,0.4509,0.8589,0.8451,0.1376
+vol,20 to 70 mL,VLM minus Direct,326,-0.0245,-0.0767,0.0276,,,
+vol,70 mL or more,VLM,196,0.4949,0.4235,0.5561,0.9592,0.8246,0.0868
+vol,70 mL or more,Direct,196,0.4184,0.3469,0.4847,0.9643,0.7921,0.0521
+vol,70 mL or more,Joint set classifier,196,0.4949,0.4235,0.5612,0.9439,0.8486,0.1204
+vol,70 mL or more,VLM minus Direct,196,0.0765,0.0153,0.1328,,,
+field,1.5 T,VLM,1154,0.3258,0.2981,0.3536,0.818,0.7244,0.2245
+field,1.5 T,Direct,1154,0.2946,0.2678,0.3215,0.8085,0.6912,0.237
+field,1.5 T,Joint set classifier,1154,0.3458,0.3163,0.3761,0.8094,0.7421,0.2247
+field,1.5 T,VLM minus Direct,1154,0.0312,0.0043,0.0555,,,
+field,3 T,VLM,297,0.3165,0.266,0.3704,0.8148,0.6969,0.257
+field,3 T,Direct,297,0.2862,0.239,0.3367,0.7778,0.6743,0.2229
+field,3 T,Joint set classifier,297,0.3232,0.2694,0.3771,0.771,0.7053,0.271
+field,3 T,VLM minus Direct,297,0.0303,-0.0303,0.0909,,,
+sex,Female,VLM,469,0.3369,0.2942,0.3774,0.8145,0.736,0.2153
+sex,Female,Direct,469,0.2985,0.258,0.3369,0.7846,0.695,0.2285
+sex,Female,Joint set classifier,469,0.3348,0.2921,0.3753,0.8017,0.7297,0.2397
+sex,Female,VLM minus Direct,469,0.0384,-0.0043,0.0832,,,
+sex,Male,VLM,479,0.3299,0.2881,0.3758,0.8351,0.7108,0.2376
+sex,Male,Direct,479,0.3215,0.2797,0.3633,0.833,0.6873,0.2373
+sex,Male,Joint set classifier,479,0.3466,0.3006,0.3862,0.8142,0.7335,0.2368
+sex,Male,VLM minus Direct,479,0.0084,-0.0334,0.0502,,,

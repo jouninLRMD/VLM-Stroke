@@ -26,6 +26,8 @@ src/zeroshot.py             zero-shot general vision-language model (Qwen2.5-VL-
 src/analysis.py             main evaluation: factuality with bootstrap CIs, retrieval, text overlap, numeric fidelity,
                             strata, outcome through language; figures and number macros
 src/ablation_eval.py        ablations, grounding, uncertainty, tuned and joint classifiers, zero-shot reference
+src/review_analyses.py      equivalence tests, field-by-field image swap, audit of the references, results by
+                            circulation and slice visibility, encoder confidence, outcome by mask status
 results/                    reference reports, generated reports of every model and variant, predictions and the
                             manuscript outputs
 ```
@@ -68,7 +70,7 @@ python reproduce.py --dry-run  # list the commands without running them
 | `evaluate` | first scoring | 1 min |
 | `ablations` | image-swap test, sampled reports, 9 trained variants | 8 to 9 h |
 | `zeroshot` | zero-shot reference | 2 h |
-| `analysis`, `ablation_eval` | all metrics, figures and the number macros of the manuscript (`results/paper`) | 15 min |
+| `analysis`, `ablation_eval`, `review` | all metrics, figures and the number macros of the manuscript (`results/paper`) | 15 min |
 
 Each stage can be run alone with `--only <stage>`, or the pipeline can be resumed with `--from <stage>`. Stages whose outputs already exist are skipped unless `--force` is given.
 
@@ -77,7 +79,7 @@ Each stage can be run alone with `--only <stage>`, or the pipeline can be resume
 The reference reports, the generated reports of every model and variant, the direct classifier predictions, the pooled encoder features and the outcome predictions are included in `results/`. To recompute every table, figure and number of the paper from them:
 
 ```bash
-python reproduce.py --only analysis ablation_eval
+python reproduce.py --only analysis ablation_eval review
 ```
 
 `results/oof` holds the out-of-fold outcome predictions of the reference models and, for the comparison in the outcome analysis, of CALM-Stroke and 2.5D MIL from the CALM-Stroke repository.
