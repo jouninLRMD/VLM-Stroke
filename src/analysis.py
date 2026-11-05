@@ -249,7 +249,7 @@ for nm, f in [("Clinical (R0)", "baseline_R0_clinical__cv5.csv"), ("Clinical + e
               ("Clinical + expert lesion (R1b)", "baseline_R1b_clin_vol_chronic_radc__cv5.csv")]:
     if (RES / "oof" / f).exists():
         OC[nm] = pd.read_csv(RES / "oof" / f).set_index("participant_id").loc[ids, "p_gt2"].values
-for nm, stem in [("2.5D MIL + anchor", "slice25d"), ("CALM-Stroke", "calm25d")]:
+for nm, stem in ([("2.5D MIL + anchor", "slice25d"), ("CALM-Stroke", "calm25d")] if "--with-image-nets" in sys.argv else []):
     fs = sorted((RES / "oof").glob(f"{stem}__cv5__s*.csv"))
     ds = [pd.read_csv(f).set_index("participant_id") for f in fs]
     ds = [d for d in ds if set(ids) <= set(d.index)]

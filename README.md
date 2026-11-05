@@ -32,7 +32,7 @@ results/                    reference reports, generated reports of every model 
                             manuscript outputs
 ```
 
-The preprocessing, cohort and reference-model scripts are shared with the companion repository [CALM-Stroke](https://github.com/jouninLRMD/CALM-Stroke), so both studies use exactly the same images, patients and folds. If you already ran CALM-Stroke, point `CALM_DATA` to the same data folder and start this pipeline at the `reports` stage.
+The repository contains every step, from the download and preprocessing of SOOP to the cohort, folds and reference models, so the pipeline can be run from scratch.
 
 ## Installation
 
@@ -82,7 +82,7 @@ The reference reports, the generated reports of every model and variant, the dir
 python reproduce.py --only analysis ablation_eval review
 ```
 
-`results/oof` holds the out-of-fold outcome predictions of the reference models and, for the comparison in the outcome analysis, of CALM-Stroke and 2.5D MIL from the CALM-Stroke repository.
+`results/oof` holds the out-of-fold outcome predictions of the clinical and lesion-based reference models.
 
 ## Data
 
