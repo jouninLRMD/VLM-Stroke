@@ -174,6 +174,9 @@ CH.update(all_ps0=int((allm.priorstroke == 0).sum()), all_ps1=int((allm.priorstr
 CH["acc_chron_prior_rule"] = float(((ps == 1).astype(int).values == T.chronic.values).mean())
 if "No prior stroke in prompt" in Q:
     CH["acc_chron_noprior"] = float(Q["No prior stroke in prompt"]["chronic"].mean())
+    Pn = SRC["No prior stroke in prompt"]
+    CH["noprior_gen_chron"] = int((Pn.chronic == 1).sum()); CH["noprior_gen_chron_tp"] = int(((Pn.chronic == 1) & (T.chronic == 1)).sum())
+    CH["ref_chron"] = int(T.chronic.sum())
 print(CH)
 
 # ------------------------------------------------------------------------------------------- reference audit
