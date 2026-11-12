@@ -1,6 +1,6 @@
 # VLM-Stroke
 
-Code and results for **"Checkable lesion reports from diffusion MRI in acute ischemic stroke: a grounded vision-language model trained and evaluated on mask-derived findings"** (L. R. Mercado-Diaz, C. Barrera-Causil, L. S. Donado Pinto, H. F. Posada-Quintero; submitted to Artificial Intelligence in Medicine).
+Code and results for **"Grounded vision-language generation of verifiable stroke lesion reports from diffusion MRI using mask-derived references"** (L. R. Mercado-Diaz, C. Barrera-Causil, L. S. Donado Pinto, H. F. Posada-Quintero; submitted to Artificial Intelligence in Medicine).
 
 There are no public radiology reports for stroke MRI, and no simple way to check whether what a vision-language model writes is true or comes from the image. This repository builds a setting in which every statement can be checked. From the expert lesion masks of 1,451 diffusion MRI scans in the public [Stroke Outcome Optimization Project (SOOP)](https://openneuro.org/datasets/ds004889/versions/1.1.2) and an arterial territory atlas, seven findings are derived and written as template reports that are true by construction. A 2.5D image encoder trained on these findings feeds a small instruction-tuned language model adapted with LoRA, which writes the report and predicts the discharge outcome. Every generated statement is then scored against the mask-derived reference.
 

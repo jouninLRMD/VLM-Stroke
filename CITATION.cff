@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite it as below."
-title: "Checkable lesion reports from diffusion MRI in acute ischemic stroke: a grounded vision-language model trained and evaluated on mask-derived findings"
+title: "Grounded vision-language generation of verifiable stroke lesion reports from diffusion MRI using mask-derived references"
 authors:
   - family-names: Mercado-Diaz
     given-names: Luis R.
