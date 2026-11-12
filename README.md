@@ -96,8 +96,7 @@ If you use this code, please cite the paper (the reference will be updated after
 
 ```
 L. R. Mercado-Diaz, C. Barrera-Causil, L. S. Donado Pinto and H. F. Posada-Quintero,
-"Checkable lesion reports from diffusion MRI in acute ischemic stroke: a grounded vision-language model trained
-and evaluated on mask-derived findings," submitted to Artificial Intelligence in Medicine, 2026.
+"Grounded vision-language generation of verifiable stroke lesion reports from diffusion MRI using mask-derived references," submitted to Artificial Intelligence in Medicine, 2026.
 ```
 
 ## License
