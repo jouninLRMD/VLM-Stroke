@@ -1,0 +1,13 @@
+,0
+n,1451.0000
+auroc_sc,0.7050
+auroc_enc,0.7512
+auroc_enc_lo,0.7240
+auroc_enc_hi,0.7780
+d,-0.0462
+d_lo,-0.0735
+d_hi,-0.0198
+auroc_comb,0.7564
+auroc_enc_small,0.5860
+auroc_sc_small,0.6042
+acc50_enc,0.4855

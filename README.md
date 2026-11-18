@@ -28,6 +28,8 @@ src/analysis.py             main evaluation: factuality with bootstrap CIs, retr
 src/ablation_eval.py        ablations, grounding, uncertainty, tuned and joint classifiers, zero-shot reference
 src/review_analyses.py      equivalence tests, field-by-field image swap, audit of the references, results by
                             circulation and slice visibility, encoder confidence, outcome by mask status
+src/bayes_extra.py          Bayesian equivalence of paired proportions, accuracy as a smooth function of lesion
+                            volume (P-spline) and the encoder probability of the written findings
 results/                    reference reports, generated reports of every model and variant, predictions and the
                             manuscript outputs
 ```

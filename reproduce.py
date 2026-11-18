@@ -151,6 +151,7 @@ def main():
             if (WORK / "cache" / "M.npy").exists():       # lesion voxels on the sampled slice levels (needs the cache)
                 run([py, SRC / "review_analyses.py", "--visibility"], log=L / "visibility.txt", dry=a.dry_run)
             run([py, SRC / "review_analyses.py"], log=L / "review.txt", dry=a.dry_run)
+            run([py, SRC / "bayes_extra.py", REPO], log=L / "bayes_extra.txt", dry=a.dry_run)
     print("\nFinished. Manuscript outputs: results/paper")
 
 
